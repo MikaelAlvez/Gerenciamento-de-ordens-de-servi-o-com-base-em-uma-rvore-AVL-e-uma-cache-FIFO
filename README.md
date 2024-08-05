@@ -33,3 +33,5 @@ Servidor atende às requisições do cliente.
 (sugiro inserir essas informações em um arquivo).
 ● Além disso, deve mostrar os ítens da cache a cada operação.
 ○ Para mostrar a política de cache eviction funcionando.
+
+![image](https://github.com/user-attachments/assets/359c45cc-98fe-47ed-8e3a-ba67e1eb9b79)
