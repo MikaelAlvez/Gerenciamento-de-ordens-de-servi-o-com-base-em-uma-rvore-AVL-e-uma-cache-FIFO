@@ -16,7 +16,7 @@ public class Cache {
       return;
     }
     for (OrdensdeServicos os : cache) {
-      System.out.println("\nCódigo: " + os.getCodigo() + 
+      System.out.println("\nCódigo: " + os.getCod() + 
                          "\nNome: " + os.getNome() + 
                          "\nDescrição: " + os.getDescricao() +
                          "\nHorário da solicitação: " + os.getHorario() + "\n");
@@ -36,7 +36,7 @@ public class Cache {
 
   public OrdensdeServicos recuperarObjeto(int cod) {
     for (OrdensdeServicos os : cache) {
-      if (os.getCodigo() == cod) {
+      if (os.getCod() == cod) {
         return os;
       }
     }
@@ -45,7 +45,7 @@ public class Cache {
 
   public OrdensdeServicos objetoPresente(int cod) {
     for (OrdensdeServicos os : cache) {
-      if (os.getCodigo() == cod) {
+      if (os.getCod() == cod) {
         return os;
       }
     }

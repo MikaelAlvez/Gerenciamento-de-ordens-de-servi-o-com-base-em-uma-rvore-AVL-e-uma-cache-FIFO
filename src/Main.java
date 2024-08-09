@@ -8,7 +8,7 @@ public class Main {
         try {
 			clienteHandler.iniciar();
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
+
 			e.printStackTrace();
 		}
     }

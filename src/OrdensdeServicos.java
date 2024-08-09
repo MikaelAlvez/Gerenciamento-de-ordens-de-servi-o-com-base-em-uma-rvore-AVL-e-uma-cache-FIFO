@@ -24,7 +24,7 @@ public class OrdensdeServicos {
     this.horario = LocalDateTime.now();
   }
 
-  public int getCodigo() {
+  public int getCod() {
     return cod;
   }
 

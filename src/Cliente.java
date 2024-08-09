@@ -31,9 +31,6 @@ public class Cliente {
     }
     
     public OrdensdeServicos BuscarOS(int cod) throws Exception{
-        return servidor.buscarOS(cod);
+        return servidor.buscarOSCache(cod);
     }
-
-
-
 }
