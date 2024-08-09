@@ -103,8 +103,8 @@ public class ArvoreAVL {
         novaRaiz.dir = raizAnt;
         raizAnt.esq = SubArvDir;
 
-        raizAnt.dir = novaAltura(raizAnt);
-        novaRaiz.dir = novaAltura(novaRaiz);
+        raizAnt.alt = novaAltura(raizAnt);
+        novaRaiz.alt = novaAltura(novaRaiz);
 
         this.rotacao = true;
 
@@ -118,8 +118,8 @@ public class ArvoreAVL {
         novaRaiz.esq = raizAnt;
         raizAnt.dir = SubArvEsq;
 
-        raizAnt.dir = novaAltura(raizAnt);
-        novaRaiz.dir = novaAltura(novaRaiz);
+        raizAnt.alt = novaAltura(raizAnt);
+        novaRaiz.alt = novaAltura(novaRaiz);
 
         this.rotacao = true;
 
