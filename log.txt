@@ -1,415 +1,434 @@
 
+--- 2024-08-10 22:34:11 ---
 Altura inicial: -1
-Função realizada: Insercao do Node 1
-Balanceamento: Árvore balanceada, não precisou rotacionar
+Inserção do No 1
+Árvore balanceada, não precisou rotacionar
 Altura atual: 0
 
 
+--- 2024-08-10 22:34:41 ---
 Altura inicial: 0
-Função realizada: Insercao do Node 2
-Balanceamento: Árvore balanceada, não precisou rotacionar
+Inserção do No 2
+Árvore balanceada, não precisou rotacionar
 Altura atual: 1
 
 
+--- 2024-08-10 22:35:09 ---
 Altura inicial: 1
-Função realizada: Insercao do Node 3
-Balanceamento: Rotação realizada!
+Inserção do No 3
+Rotação realizada!
 Altura atual: 1
 
 
+--- 2024-08-10 22:35:41 ---
 Altura inicial: 1
-Função realizada: Insercao do Node 4
-Balanceamento: Árvore balanceada, não precisou rotacionar
+Inserção do No 4
+Árvore balanceada, não precisou rotacionar
 Altura atual: 2
 
 
+--- 2024-08-10 22:36:31 ---
 Altura inicial: 2
-Função realizada: Insercao do Node 5
-Balanceamento: Rotação realizada!
+Inserção do No 5
+Rotação realizada!
 Altura atual: 2
 
 
+--- 2024-08-10 22:36:53 ---
 Altura inicial: 2
-Função realizada: Insercao do Node 6
-Balanceamento: Rotação realizada!
+Inserção do No 6
+Rotação realizada!
 Altura atual: 2
 
 
+--- 2024-08-10 22:37:21 ---
 Altura inicial: 2
-Função realizada: Insercao do Node 7
-Balanceamento: Rotação realizada!
+Inserção do No 7
+Rotação realizada!
 Altura atual: 2
 
 
+--- 2024-08-10 22:37:44 ---
 Altura inicial: 2
-Função realizada: Insercao do Node 8
-Balanceamento: Árvore balanceada, não precisou rotacionar
+Inserção do No 8
+Árvore balanceada, não precisou rotacionar
 Altura atual: 3
 
 
+--- 2024-08-10 22:38:10 ---
 Altura inicial: 3
-Função realizada: Insercao do Node 9
-Balanceamento: Rotação realizada!
+Inserção do No 9
+Rotação realizada!
 Altura atual: 3
 
 
+--- 2024-08-10 22:38:34 ---
 Altura inicial: 3
-Função realizada: Insercao do Node 10
-Balanceamento: Rotação realizada!
+Inserção do No 10
+Rotação realizada!
 Altura atual: 3
 
 
+--- 2024-08-10 22:39:02 ---
 Altura inicial: 3
-Função realizada: Insercao do Node 11
-Balanceamento: Rotação realizada!
+Inserção do No 11
+Rotação realizada!
 Altura atual: 3
 
 
+--- 2024-08-10 22:39:29 ---
 Altura inicial: 3
-Função realizada: Insercao do Node 12
-Balanceamento: Rotação realizada!
+Inserção do No 12
+Rotação realizada!
 Altura atual: 3
 
 
+--- 2024-08-10 22:40:00 ---
 Altura inicial: 3
-Função realizada: Insercao do Node 13
-Balanceamento: Rotação realizada!
+Inserção do No 13
+Rotação realizada!
 Altura atual: 3
 
 
+--- 2024-08-10 22:40:47 ---
 Altura inicial: 3
-Função realizada: Insercao do Node 14
-Balanceamento: Rotação realizada!
+Inserção do No 14
+Rotação realizada!
 Altura atual: 3
 
 
+--- 2024-08-10 22:41:06 ---
 Altura inicial: 3
-Função realizada: Insercao do Node 15
-Balanceamento: Rotação realizada!
+Inserção do No 15
+Rotação realizada!
 Altura atual: 3
 
 
+--- 2024-08-10 22:41:29 ---
 Altura inicial: 3
-Função realizada: Insercao do Node 16
-Balanceamento: Árvore balanceada, não precisou rotacionar
+Inserção do No 16
+Árvore balanceada, não precisou rotacionar
 Altura atual: 4
 
 
+--- 2024-08-10 22:41:50 ---
 Altura inicial: 4
-Função realizada: Insercao do Node 17
-Balanceamento: Rotação realizada!
+Inserção do No 17
+Rotação realizada!
 Altura atual: 4
 
 
+--- 2024-08-10 22:42:15 ---
 Altura inicial: 4
-Função realizada: Insercao do Node 18
-Balanceamento: Rotação realizada!
+Inserção do No 18
+Rotação realizada!
 Altura atual: 4
 
 
+--- 2024-08-10 22:42:40 ---
 Altura inicial: 4
-Função realizada: Insercao do Node 19
-Balanceamento: Rotação realizada!
+Inserção do No 19
+Rotação realizada!
 Altura atual: 4
 
 
+--- 2024-08-10 22:43:01 ---
 Altura inicial: 4
-Função realizada: Insercao do Node 20
-Balanceamento: Rotação realizada!
+Inserção do No 20
+Rotação realizada!
 Altura atual: 4
 
 
+--- 2024-08-10 22:43:21 ---
 Altura inicial: 4
-Função realizada: Insercao do Node 21
-Balanceamento: Rotação realizada!
+Inserção do No 21
+Rotação realizada!
 Altura atual: 4
 
 
+--- 2024-08-10 22:43:47 ---
 Altura inicial: 4
-Função realizada: Insercao do Node 22
-Balanceamento: Rotação realizada!
+Inserção do No 22
+Rotação realizada!
 Altura atual: 4
 
 
+--- 2024-08-10 22:44:10 ---
 Altura inicial: 4
-Função realizada: Insercao do Node 23
-Balanceamento: Rotação realizada!
+Inserção do No 23
+Rotação realizada!
 Altura atual: 4
 
 
+--- 2024-08-10 22:44:34 ---
 Altura inicial: 4
-Função realizada: Insercao do Node 24
-Balanceamento: Rotação realizada!
+Inserção do No 24
+Rotação realizada!
 Altura atual: 4
 
 
+--- 2024-08-10 22:45:06 ---
 Altura inicial: 4
-Função realizada: Insercao do Node 25
-Balanceamento: Rotação realizada!
+Inserção do No 25
+Rotação realizada!
 Altura atual: 4
 
 
+--- 2024-08-10 22:45:32 ---
 Altura inicial: 4
-Função realizada: Insercao do Node 26
-Balanceamento: Rotação realizada!
+Inserção do No 26
+Rotação realizada!
 Altura atual: 4
 
 
+--- 2024-08-10 22:46:00 ---
 Altura inicial: 4
-Função realizada: Insercao do Node 27
-Balanceamento: Rotação realizada!
+Inserção do No 27
+Rotação realizada!
 Altura atual: 4
 
 
+--- 2024-08-10 22:46:24 ---
 Altura inicial: 4
-Função realizada: Insercao do Node 28
-Balanceamento: Rotação realizada!
+Inserção do No 28
+Rotação realizada!
 Altura atual: 4
 
 
+--- 2024-08-10 22:46:49 ---
 Altura inicial: 4
-Função realizada: Insercao do Node 29
-Balanceamento: Rotação realizada!
+Inserção do No 29
+Rotação realizada!
 Altura atual: 4
 
 
+--- 2024-08-10 22:47:31 ---
 Altura inicial: 4
-Função realizada: Insercao do Node 30
-Balanceamento: Rotação realizada!
+Inserção do No 30
+Rotação realizada!
 Altura atual: 4
 
 
+--- 2024-08-10 22:48:21 ---
 Altura inicial: 4
-Função realizada: Insercao do Node 31
-Balanceamento: Rotação realizada!
+Inserção do No 31
+Rotação realizada!
 Altura atual: 4
 
 
+--- 2024-08-10 22:49:01 ---
 Altura inicial: 4
-Função realizada: Insercao do Node 32
-Balanceamento: Árvore balanceada, não precisou rotacionar
+Inserção do No 32
+Árvore balanceada, não precisou rotacionar
 Altura atual: 5
 
 
+--- 2024-08-10 22:51:41 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 33
-Balanceamento: Rotação realizada!
+Inserção do No 33
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 22:52:01 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 34
-Balanceamento: Rotação realizada!
+Inserção do No 34
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 22:52:24 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 35
-Balanceamento: Rotação realizada!
+Inserção do No 35
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 22:52:50 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 36
-Balanceamento: Rotação realizada!
+Inserção do No 36
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 22:53:13 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 37
-Balanceamento: Rotação realizada!
+Inserção do No 37
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 22:53:33 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 38
-Balanceamento: Rotação realizada!
+Inserção do No 38
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 22:53:56 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 39
-Balanceamento: Rotação realizada!
+Inserção do No 39
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 22:54:20 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 40
-Balanceamento: Rotação realizada!
+Inserção do No 40
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 22:57:55 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 41
-Balanceamento: Rotação realizada!
+Inserção do No 41
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 22:58:17 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 42
-Balanceamento: Rotação realizada!
+Inserção do No 42
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 22:58:40 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 43
-Balanceamento: Rotação realizada!
+Inserção do No 43
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 22:58:59 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 44
-Balanceamento: Rotação realizada!
+Inserção do No 44
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 23:00:40 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 45
-Balanceamento: Rotação realizada!
+Inserção do No 45
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 23:01:06 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 46
-Balanceamento: Rotação realizada!
+Inserção do No 46
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 23:01:25 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 47
-Balanceamento: Rotação realizada!
+Inserção do No 47
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 23:01:49 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 48
-Balanceamento: Rotação realizada!
+Inserção do No 48
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 23:02:26 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 49
-Balanceamento: Rotação realizada!
+Inserção do No 49
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 23:02:53 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 50
-Balanceamento: Rotação realizada!
+Inserção do No 50
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 23:03:11 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 51
-Balanceamento: Rotação realizada!
+Inserção do No 51
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 23:03:33 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 52
-Balanceamento: Rotação realizada!
+Inserção do No 52
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 23:04:02 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 53
-Balanceamento: Rotação realizada!
+Inserção do No 53
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 23:05:11 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 54
-Balanceamento: Rotação realizada!
+Inserção do No 54
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 23:05:39 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 55
-Balanceamento: Rotação realizada!
+Inserção do No 55
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 23:06:02 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 56
-Balanceamento: Rotação realizada!
+Inserção do No 56
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 23:06:24 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 57
-Balanceamento: Rotação realizada!
+Inserção do No 57
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 23:06:55 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 58
-Balanceamento: Rotação realizada!
+Inserção do No 58
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 23:07:20 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 59
-Balanceamento: Rotação realizada!
+Inserção do No 59
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 23:07:40 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 60
-Balanceamento: Rotação realizada!
+Inserção do No 60
+Rotação realizada!
 Altura atual: 5
 
 
-
-----------------------------------------------------
-Insercao de 60 Ordens de Servico concluida.
-----------------------------------------------------
-
-
-
+--- 2024-08-10 23:12:03 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 61
-Balanceamento: Rotação realizada!
+Inserção do No 61
+Rotação realizada!
 Altura atual: 5
 
 
+--- 2024-08-10 23:12:09 ---
 Altura inicial: 5
-Função realizada: Insercao do Node 62
-Balanceamento: Rotação realizada!
-Altura atual: 5
-
-
-Altura inicial: 5
-Função realizada: Remocao do Node 1
-Balanceamento: Árvore balanceada, não precisou rotacionar
-Altura atual: 5
-
-
-Altura inicial: 5
-Função realizada: Remocao do Node 55
-Balanceamento: Árvore balanceada, não precisou rotacionar
-Altura atual: 5
-
-
-Altura inicial: 5
-Função realizada: Insercao do Node 61
-Balanceamento: Rotação realizada!
-Altura atual: 5
-
-
-Altura inicial: 5
-Função realizada: Remocao do Node 59
-Balanceamento: Árvore balanceada, não precisou rotacionar
-Altura atual: 5
-
-
-Altura inicial: 5
-Função realizada: Insercao do Node 61
-Balanceamento: Rotação realizada!
-Altura atual: 5
-
-
-Altura inicial: 5
-Função realizada: Remocao do Node 61
-Balanceamento: Rotação realizada!
+Remocao do No 61
+Árvore balanceada, não precisou rotacionar
 Altura atual: 5
 

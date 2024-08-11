@@ -1,6 +1,8 @@
 package GerenciamentodeOSs;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
 
 public class Cache {
   private ArrayList<OrdensdeServicos> cache;
@@ -50,5 +52,9 @@ public class Cache {
       }
     }
     return null;
+  }
+  
+  public List<OrdensdeServicos> getCache() {
+      return new LinkedList<>(cache); // Retorna uma cópia da lista para evitar modificações externas
   }
 }

@@ -1,0 +1,434 @@
+Estado atual da Cache: 
+1 
+
+Informações de Cache:
+Hits: 0
+Misses: 1
+-----------------------------
+Estado atual da Cache: 
+1 
+2 
+
+Informações de Cache:
+Hits: 0
+Misses: 2
+-----------------------------
+Estado atual da Cache: 
+1 
+2 
+3 
+
+Informações de Cache:
+Hits: 0
+Misses: 3
+-----------------------------
+Estado atual da Cache: 
+1 
+2 
+3 
+4 
+
+Informações de Cache:
+Hits: 0
+Misses: 4
+-----------------------------
+Estado atual da Cache: 
+1 
+2 
+3 
+4 
+5 
+
+Informações de Cache:
+Hits: 0
+Misses: 5
+-----------------------------
+Estado atual da Cache: 
+1 
+2 
+3 
+4 
+5 
+6 
+
+Informações de Cache:
+Hits: 0
+Misses: 6
+-----------------------------
+Estado atual da Cache: 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+
+Informações de Cache:
+Hits: 0
+Misses: 7
+-----------------------------
+Estado atual da Cache: 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+
+Informações de Cache:
+Hits: 0
+Misses: 8
+-----------------------------
+Estado atual da Cache: 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+
+Informações de Cache:
+Hits: 0
+Misses: 9
+-----------------------------
+Estado atual da Cache: 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+
+Informações de Cache:
+Hits: 0
+Misses: 10
+-----------------------------
+Estado atual da Cache: 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+
+Informações de Cache:
+Hits: 0
+Misses: 11
+-----------------------------
+Estado atual da Cache: 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+
+Informações de Cache:
+Hits: 0
+Misses: 12
+-----------------------------
+Estado atual da Cache: 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+
+Informações de Cache:
+Hits: 0
+Misses: 13
+-----------------------------
+Estado atual da Cache: 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+
+Informações de Cache:
+Hits: 0
+Misses: 14
+-----------------------------
+Estado atual da Cache: 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+
+Informações de Cache:
+Hits: 0
+Misses: 15
+-----------------------------
+Estado atual da Cache: 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+
+Informações de Cache:
+Hits: 0
+Misses: 16
+-----------------------------
+Estado atual da Cache: 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+
+Informações de Cache:
+Hits: 0
+Misses: 17
+-----------------------------
+Estado atual da Cache: 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+
+Informações de Cache:
+Hits: 0
+Misses: 18
+-----------------------------
+Estado atual da Cache: 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+
+Informações de Cache:
+Hits: 0
+Misses: 19
+-----------------------------
+Estado atual da Cache: 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+
+Informações de Cache:
+Hits: 0
+Misses: 20
+-----------------------------
+Estado atual da Cache: 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+
+Informações de Cache:
+Hits: 1
+Misses: 20
+-----------------------------
+Estado atual da Cache: 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+25 
+
+Informações de Cache:
+Hits: 1
+Misses: 21
+-----------------------------
+Estado atual da Cache: 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+25 
+1 
+
+Informações de Cache:
+Hits: 1
+Misses: 22
+-----------------------------
+Estado atual da Cache: 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+25 
+1 
+
+Informações de Cache:
+Hits: 2
+Misses: 22
+-----------------------------
