@@ -44,17 +44,8 @@ public class Cache {
     }
     return null;
   }
-
-  public OrdensdeServicos objetoPresente(int cod) {
-    for (OrdensdeServicos os : cache) {
-      if (os.getCod() == cod) {
-        return os;
-      }
-    }
-    return null;
-  }
   
   public List<OrdensdeServicos> getCache() {
-      return new LinkedList<>(cache); // Retorna uma cópia da lista para evitar modificações externas
+      return new LinkedList<>(cache);
   }
 }

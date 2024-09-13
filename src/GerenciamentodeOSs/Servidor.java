@@ -31,15 +31,15 @@ public class Servidor {
             DateTimeFormatter formatter = DateTimeFormatter.ISO_LOCAL_DATE_TIME;
 
             while ((linha = br.readLine()) != null) {
-                String[] dados = linha.split(","); // Assume que o delimitador é vírgula
+                String[] dados = linha.split(",");
                 int codigo = Integer.parseInt(dados[0]);
                 String nome = dados[1];
                 String descricao = dados[2];
-                LocalDateTime horario = LocalDateTime.parse(dados[3], formatter); // Parse do horário
+                LocalDateTime horario = LocalDateTime.parse(dados[3], formatter);
 
                 OrdensdeServicos os = new OrdensdeServicos(codigo, nome, descricao);
-                os.setHorario(horario); // Define o horário lido do arquivo
-                BancodeDados.adicionar(os);  // Adiciona a OS à árvore AVL
+                os.setHorario(horario);
+                BancodeDados.adicionar(os);
             }
             System.out.println("Banco de Dados carregado com sucesso!");
         } catch (IOException e) {
@@ -90,7 +90,7 @@ public class Servidor {
     public Boolean alterarOS(OrdensdeServicos os) throws Exception {
         BancodeDados.alterar(os);
 
-        OrdensdeServicos ordem = cache.objetoPresente(os.getCod());
+        OrdensdeServicos ordem = cache.recuperarObjeto(os.getCod());
 
         if (ordem != null) {
             cache.remover(ordem);
@@ -107,7 +107,7 @@ public class Servidor {
 
         BancodeDados.remover(cod);
 
-        OrdensdeServicos ordem = cache.objetoPresente(cod);
+        OrdensdeServicos ordem = cache.recuperarObjeto(cod);
 
         if (ordem != null) {
             cache.remover(ordem);

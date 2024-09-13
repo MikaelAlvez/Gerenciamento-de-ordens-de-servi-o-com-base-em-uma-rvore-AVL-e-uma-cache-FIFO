@@ -36,8 +36,6 @@ public class ArvoreAVL {
         	raiz.esq = adicionar(raiz.esq, servico);
         else if (servico.getCod() > raiz.os.getCod())
         	raiz.dir = adicionar(raiz.dir, servico);
-        else
-            throw new Exception("O nó com o código " + servico.getCod() + " já existe na árvore.");
 
         raiz.alt = novaAltura(raiz);
 

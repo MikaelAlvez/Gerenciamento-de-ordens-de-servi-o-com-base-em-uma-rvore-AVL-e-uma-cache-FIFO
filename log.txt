@@ -432,3 +432,73 @@ Remocao do No 61
 Árvore balanceada, não precisou rotacionar
 Altura atual: 5
 
+
+--- 2024-08-11 08:56:28 ---
+Altura inicial: 5
+Inserção do No 61
+Rotação realizada!
+Altura atual: 5
+
+
+--- 2024-08-11 08:57:06 ---
+Altura inicial: 5
+Remocao do No 61
+Árvore balanceada, não precisou rotacionar
+Altura atual: 5
+
+
+--- 2024-08-11 18:45:46 ---
+Altura inicial: 5
+Inserção do No 61
+Rotação realizada!
+Altura atual: 5
+
+
+--- 2024-08-11 18:46:17 ---
+Altura inicial: 5
+Inserção do No 62
+Rotação realizada!
+Altura atual: 5
+
+
+--- 2024-08-11 18:47:19 ---
+Altura inicial: 5
+Remocao do No 15
+Árvore balanceada, não precisou rotacionar
+Altura atual: 5
+
+
+--- 2024-08-11 18:47:46 ---
+Altura inicial: 5
+Remocao do No 32
+Árvore balanceada, não precisou rotacionar
+Altura atual: 5
+
+
+--- 2024-08-11 19:06:09 ---
+Altura inicial: 5
+Inserção do No 63
+Rotação realizada!
+Altura atual: 5
+
+
+--- 2024-08-11 19:06:46 ---
+Altura inicial: 5
+Inserção do No 64
+Rotação realizada!
+Altura atual: 5
+
+
+--- 2024-08-11 19:07:26 ---
+Altura inicial: 5
+Remocao do No 16
+Árvore balanceada, não precisou rotacionar
+Altura atual: 5
+
+
+--- 2024-08-11 19:07:53 ---
+Altura inicial: 5
+Remocao do No 47
+Árvore balanceada, não precisou rotacionar
+Altura atual: 5
+

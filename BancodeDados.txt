@@ -12,8 +12,6 @@
 12,Reparo de Telhado,Substituição de telhas,2024-08-10T22:39:29.045985264
 13,Instalação de Segurança,Configuração de câmeras,2024-08-10T22:40:00.943127771
 14,Manutenção de Jardins,Podar arbustos e plantar flores,2024-08-10T22:40:47.103788785
-15,Reparo de Móveis,Conserto de cadeira quebrada,2024-08-10T22:41:06.054299049
-16,Instalação de Iluminação,Colocar luminárias no jardim,2024-08-10T22:41:29.867189494
 17,Manutenção de Piscina,Limpeza e tratamento da água,2024-08-10T22:41:50.752361539
 18,Reparo de Computadores,Conserto de hardware,2024-08-10T22:42:15.790271833
 19,Instalação de Cercas,Colocar cercas no jardim,2024-08-10T22:42:40.266339728
@@ -29,7 +27,6 @@
 29,Reparo de Lavatório,Conserto de vazamento,2024-08-10T22:46:49.166443023
 30,Instalação de Pisos,Colocar novo piso,2024-08-10T22:47:31.496444026
 31,Manutenção de Escadas,Reparo e verificação,2024-08-10T22:48:21.940781867
-32,Reparo de Fechaduras,Substituição de fechadura,2024-08-10T22:49:01.330938607
 33,Instalação de Portas,Colocar e ajustar portas,2024-08-10T22:51:41.228410816
 34,Limpeza de Estofados,Limpeza e hidratação,2024-08-10T22:52:01.225906053
 35,Manutenção de Sistema Elétrico,Checar fiação e tomadas,2024-08-10T22:52:24.410958209
@@ -44,7 +41,6 @@
 44,Instalação de Acabamentos,Colocar rodapés e molduras,2024-08-10T22:58:59.479469893
 45,Manutenção de Geladeira,Checar e ajustar temperatura,2024-08-10T23:00:40.063049927
 46,Reparo de Ar Condicionado,Conserto de resfriamento,2024-08-10T23:01:06.223229636
-47,Instalação de Balcões,Montar balcões de cozinha,2024-08-10T23:01:25.692019011
 48,Limpeza de Carpete,Limpeza e desinfecção,2024-08-10T23:01:49.9469693
 49,Manutenção de Ventiladores,Substituição de lâmpadas,2024-08-10T23:02:26.734317207
 50,Reparo de Maquina de Café,Conserto de partes elétricas,2024-08-10T23:02:53.700997727
@@ -58,3 +54,7 @@
 58,Instalação de Placas de Identificação,Colocar placas na fachada,2024-08-10T23:06:55.755961545
 59,Manutenção de Sistema de Alarme,Verificação e teste,2024-08-10T23:07:20.613600095
 60,Reparo de Roteador,Conserto de conexão,2024-08-10T23:07:40.229423351
+61,Duo boot,Windows 11 e linux,2024-08-11T18:45:46.12127017
+62,MAnutenção,Reparo,2024-08-11T18:46:17.419270197
+63,MAnutenção,MAnutenção,2024-08-11T19:06:09.077378383
+64,Reparo de computador,Reparo,2024-08-11T19:06:46.005076972
