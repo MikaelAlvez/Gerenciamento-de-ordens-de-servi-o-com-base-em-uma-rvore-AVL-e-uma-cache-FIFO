@@ -1,88 +1,69 @@
-Estado atual da Cache: 
-1 
+Estado atual da Cache:
+
+Informações de Cache:
+Hits: 0
+Misses: 0
+-----------------------------
+Estado atual da Cache:
+Código: 20
 
 Informações de Cache:
 Hits: 0
 Misses: 1
 -----------------------------
-Estado atual da Cache: 
-1 
-2 
+Estado atual da Cache:
+Código: 20
+Código: 71
 
 Informações de Cache:
 Hits: 0
 Misses: 2
 -----------------------------
-Estado atual da Cache: 
-1 
-2 
+Estado atual da Cache:
+Código: 20
+Código: 71
 
 Informações de Cache:
 Hits: 1
 Misses: 2
 -----------------------------
-Estado atual da Cache: 
-1 
-2 
+Estado atual da Cache:
+Código: 20
+Código: 71
 
 Informações de Cache:
 Hits: 2
 Misses: 2
 -----------------------------
-Estado atual da Cache: 
-1 
-2 
-61 
+Estado atual da Cache:
+Código: 20
+Código: 71
 
 Informações de Cache:
 Hits: 2
-Misses: 3
------------------------------
-Estado atual da Cache: 
-2 
-
-Informações de Cache:
-Hits: 0
-Misses: 1
------------------------------
-Estado atual da Cache: 
-2 
-4 
-
-Informações de Cache:
-Hits: 0
 Misses: 2
 -----------------------------
-Estado atual da Cache: 
-2 
-4 
-6 
+Estado atual da Cache:
+Código: 20
+Código: 71
 
 Informações de Cache:
-Hits: 0
+Hits: 3
+Misses: 2
+-----------------------------
+Estado atual da Cache:
+Código: 20
+Código: 59
+
+Informações de Cache:
+Hits: 3
 Misses: 3
 -----------------------------
-Estado atual da Cache: 
-2 
-4 
-6 
-64 
+Estado atual da Cache:
+Código: 20
+Código: 59
 
 Informações de Cache:
-Hits: 0
-Misses: 4
------------------------------
-Estado atual da Cache: 
-1 
-
-Informações de Cache:
-Hits: 0
-Misses: 1
------------------------------
-Estado atual da Cache: 
-1 
-
-Informações de Cache:
-Hits: 1
-Misses: 1
+Hits: 3
+Misses: 3
 -----------------------------
