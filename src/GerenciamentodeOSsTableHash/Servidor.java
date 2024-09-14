@@ -157,11 +157,12 @@ public class Servidor {
 
         String message = String.format(
             "\n--- %s ---\n" +
+            "Data e Hora: %s\n" +
             "Tamanho inicial: %d\n" +
             "%s no Registro %d\n" +
             "%s\n" +
             "Tamanho atual: %d\n",
-            formatter.format(agora), tamanhoAntes, funcao, cod, alteracao, tamanhoAtual);
+            formatter.format(agora), agora.format(formatter), tamanhoAntes, funcao, cod, alteracao, tamanhoAtual);
 
         try (FileWriter escreverArq = new FileWriter("log.txt", true);
              BufferedWriter escreverBuf = new BufferedWriter(escreverArq);
@@ -177,9 +178,13 @@ public class Servidor {
              BufferedWriter escreverBuf = new BufferedWriter(escreverArq);
              PrintWriter exibir = new PrintWriter(escreverBuf)) {
 
-            List<OrdensdeServicos> cacheAtual = cache.getCache();
+            LocalDateTime agora = LocalDateTime.now();
+            DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
+
+            exibir.println("Data e Hora: " + agora.format(formatter));
             exibir.println("Estado atual da Cache:");
 
+            List<OrdensdeServicos> cacheAtual = cache.getCache();
             for (OrdensdeServicos os : cacheAtual) {
                 exibir.println(String.format("Código: %d", os.getCod()));
             }

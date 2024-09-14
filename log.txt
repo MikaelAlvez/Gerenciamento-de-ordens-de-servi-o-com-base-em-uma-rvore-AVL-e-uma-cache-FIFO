@@ -46,3 +46,33 @@ Remoção no Registro 71
 Alteração realizada!
 Tamanho atual: 70
 
+
+--- 2024-09-14 20:34:06 ---
+Tamanho inicial: 70
+Inserção no Registro 71
+Alteração realizada!
+Tamanho atual: 71
+
+
+--- 2024-09-14 20:34:57 ---
+Tamanho inicial: 71
+Remoção no Registro 71
+Alteração realizada!
+Tamanho atual: 70
+
+
+--- 2024-09-14 20:43:03 ---
+Data e Hora: 2024-09-14 20:43:03
+Tamanho inicial: 70
+Inserção no Registro 71
+Alteração realizada!
+Tamanho atual: 71
+
+
+--- 2024-09-14 20:44:51 ---
+Data e Hora: 2024-09-14 20:44:51
+Tamanho inicial: 71
+Remoção no Registro 71
+Alteração realizada!
+Tamanho atual: 70
+

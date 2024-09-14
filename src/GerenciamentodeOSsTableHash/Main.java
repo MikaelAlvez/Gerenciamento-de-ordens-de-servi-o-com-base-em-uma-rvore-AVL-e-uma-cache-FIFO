@@ -6,11 +6,14 @@ public class Main {
             // Criar uma instância do Servidor
             Servidor servidor = new Servidor();
 
-            // Inicializar o manipulador de servidor
-            ServidorHandler servidorHandler = new ServidorHandler(servidor);
+            // Criar uma instância do Cliente, passando a referência do Servidor
+            Cliente cliente = new Cliente(servidor);
+
+            // Inicializar o manipulador de cliente
+            ClienteHandler clienteHandler = new ClienteHandler(cliente);
 
             // Iniciar o loop de interação com o usuário
-            servidorHandler.iniciar();
+            clienteHandler.iniciar();
         } catch (Exception e) {
             System.out.println("Erro ao iniciar o sistema: " + e.getMessage());
         }

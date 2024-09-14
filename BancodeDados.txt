@@ -40,7 +40,7 @@
 10,Instalação de Ar Condicionado,Colocar unidade externa,2024-08-10T22:38:34.176193148
 30,Instalação de Pisos,Colocar novo piso,2024-08-10T22:47:31.496444026
 50,Reparo de Maquina de Café,Conserto de partes elétricas,2024-08-10T23:02:53.700997727
-70,Manutenção de Sistema de Alarme,Verificação e teste,2024-08-10T23:07:20.613600095
+70,Manutenção de sistema de Alarme,Troca de sensor,2024-08-10T23:07:20.613600095
 11,Limpeza de Carpetes,Limpeza profunda dos carpetes,2024-08-10T22:39:02.222344111
 31,Manutenção de Escadas,Reparo e verificação,2024-08-10T22:48:21.940781867
 51,Instalação de Parabólicas,Montar antena de TV,2024-08-10T23:03:11.648237307
