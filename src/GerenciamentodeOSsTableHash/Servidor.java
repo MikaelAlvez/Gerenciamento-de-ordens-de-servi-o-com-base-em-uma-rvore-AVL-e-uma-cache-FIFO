@@ -181,17 +181,17 @@ public class Servidor {
             LocalDateTime agora = LocalDateTime.now();
             DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
 
-            exibir.println("Data e Hora: " + agora.format(formatter));
             exibir.println("Estado atual da Cache:");
 
             List<OrdensdeServicos> cacheAtual = cache.getCache();
             for (OrdensdeServicos os : cacheAtual) {
-                exibir.println(String.format("Código: %d", os.getCod()));
+                exibir.println(String.format("Cód: %d", os.getCod()));
             }
 
             exibir.println("\nInformações de Cache:");
             exibir.println("Hits: " + hits);
             exibir.println("Misses: " + miss);
+            exibir.println("Data e Hora: " + agora.format(formatter));
             exibir.println("-----------------------------");
 
         } catch (IOException e) {

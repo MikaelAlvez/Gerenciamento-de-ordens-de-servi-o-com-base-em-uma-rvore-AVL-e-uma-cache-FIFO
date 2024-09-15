@@ -5,10 +5,13 @@ import java.util.LinkedList;
 public class TabelaHash {
     private LinkedList<OrdensdeServicos>[] tabela;
     private int tamanho;
+    private int elementos;
+    private final double fatorCargaMaximo = 0.75;
 
     @SuppressWarnings("unchecked")
-    public TabelaHash(int tamanho) {
-        this.tamanho = tamanho;
+    public TabelaHash(int tamanhoInicial) {
+        this.tamanho = tamanhoInicial;
+        this.elementos = 0;
         tabela = new LinkedList[tamanho];
         for (int i = 0; i < tamanho; i++) {
             tabela[i] = new LinkedList<>();
@@ -20,8 +23,13 @@ public class TabelaHash {
     }
 
     public void inserir(OrdensdeServicos os) {
+        if ((double) elementos / tamanho >= fatorCargaMaximo) {
+            redimensionar(); // Redimensiona a tabela se o fator de carga for excedido
+        }
+
         int indice = funcaoHash(os.getCod());
         tabela[indice].add(os);
+        elementos++;
     }
 
     public OrdensdeServicos buscar(int codigo) {
@@ -36,7 +44,30 @@ public class TabelaHash {
 
     public void remover(int codigo) {
         int indice = funcaoHash(codigo);
-        tabela[indice].removeIf(os -> os.getCod() == codigo);
+        boolean removido = tabela[indice].removeIf(os -> os.getCod() == codigo);
+        if (removido) {
+            elementos--;
+        }
+    }
+
+    private void redimensionar() {
+        int novoTamanho = tamanho * 2;
+        LinkedList<OrdensdeServicos>[] novaTabela = new LinkedList[novoTamanho];
+        for (int i = 0; i < novoTamanho; i++) {
+            novaTabela[i] = new LinkedList<>();
+        }
+
+        // Re-hash dos elementos da tabela antiga para a nova tabela
+        for (LinkedList<OrdensdeServicos> lista : tabela) {
+            for (OrdensdeServicos os : lista) {
+                int novoIndice = os.getCod() % novoTamanho;
+                novaTabela[novoIndice].add(os);
+            }
+        }
+
+        // Atualiza a tabela e o tamanho
+        tabela = novaTabela;
+        tamanho = novoTamanho;
     }
 
     public LinkedList<OrdensdeServicos> getLista(int indice) {
@@ -49,5 +80,13 @@ public class TabelaHash {
             listaTodos.addAll(lista);
         }
         return listaTodos;
+    }
+
+    public int getTamanhoAtual() {
+        return tamanho;
+    }
+
+    public int getNumeroElementos() {
+        return elementos;
     }
 }
