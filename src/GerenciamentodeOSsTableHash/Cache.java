@@ -1,46 +1,49 @@
 package GerenciamentodeOSsTableHash;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Random;
 
 public class Cache {
-    private ArrayList<OrdensdeServicos> cache;
+    private TabelaHash tabelaHash;
     private final int tamanhoCache = 20;
     private Random random;
 
     public Cache() {
-        this.cache = new ArrayList<>();
+        this.tabelaHash = new TabelaHash(tamanhoCache);
         this.random = new Random();
     }
 
-    // Inserir OS na cache, aplicando a política Random se necessário
-    public void randomInsert(OrdensdeServicos os) {
-        if (cache.size() >= tamanhoCache) {
-            int indexAleatorio = random.nextInt(tamanhoCache); // Seleciona um índice aleatório
-            cache.remove(indexAleatorio); // Remove o item aleatoriamente selecionado
+    // Função para remover um item aleatório da cache
+    private void removerAleatorio() {
+        List<OrdensdeServicos> todosOsItens = tabelaHash.listarTodos();
+        if (!todosOsItens.isEmpty()) {
+            int indexAleatorio = random.nextInt(todosOsItens.size());
+            OrdensdeServicos osParaRemover = todosOsItens.get(indexAleatorio);
+            tabelaHash.remover(osParaRemover.getCod());
         }
-        cache.add(os); // Adiciona o novo item
+    }
+
+    // Inserir OS na cache, aplicando a política Random se necessário
+    public void inserir(OrdensdeServicos os) {
+        if (tabelaHash.getNumeroElementos() >= tamanhoCache) {
+            removerAleatorio(); // Remove um item aleatório se a cache estiver cheia
+        }
+        tabelaHash.inserir(os);
     }
 
     // Remover um objeto da cache
     public void remover(OrdensdeServicos os) {
-        cache.remove(os);
+        tabelaHash.remover(os.getCod());
     }
 
     // Buscar uma OS na cache, retornando o objeto se encontrado
     public OrdensdeServicos recuperarObjeto(int cod) {
-        for (OrdensdeServicos os : cache) {
-            if (os.getCod() == cod) {
-                return os;
-            }
-        }
-        return null;
+        return tabelaHash.buscar(cod);
     }
 
     // Retorna a lista atual de OSs na cache
     public List<OrdensdeServicos> getCache() {
-        return new LinkedList<>(cache);
+        return new LinkedList<>(tabelaHash.listarTodos());
     }
 }

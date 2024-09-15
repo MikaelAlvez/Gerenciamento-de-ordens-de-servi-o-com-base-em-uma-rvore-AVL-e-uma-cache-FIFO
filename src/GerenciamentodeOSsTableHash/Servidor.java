@@ -17,7 +17,7 @@ public class Servidor {
     private int miss;
 
     public Servidor() {
-        this.BancodeDados = new TabelaHash(20); // Ajuste o tamanho da tabela conforme necessário
+        this.BancodeDados = new TabelaHash(20);
         this.cache = new Cache();
         this.hits = 0;
         this.miss = 0;
@@ -51,16 +51,23 @@ public class Servidor {
 
     public OrdensdeServicos buscarOSCache(int cod) throws Exception {
         OrdensdeServicos ordem = cache.recuperarObjeto(cod);
+        int tamanhoAntes = getRegistros();
+
         if (ordem != null) {
             hits++;
             logCache();
+            
+            log("Busca na Cache", true, tamanhoAntes, getRegistros(), cod);
+            
             return ordem;
         }
 
         ordem = BancodeDados.buscar(cod);
         if (ordem != null) {
-            cache.randomInsert(ordem);
+            cache.inserir(ordem);
             miss++;
+            
+            log("Busca no Banco de dados", false, tamanhoAntes, getRegistros(), cod);
         }
 
         logCache();
@@ -85,6 +92,7 @@ public class Servidor {
 
     public List<OrdensdeServicos> listarOs() {
         return BancodeDados.listarTodos();
+                
     }
 
     public Boolean alterarOS(OrdensdeServicos os) throws Exception {
@@ -95,10 +103,12 @@ public class Servidor {
 
         if (ordem != null) {
             cache.remover(ordem);
-            cache.randomInsert(os);
+            cache.inserir(os);
         }
 
         atualizarArquivo();
+        
+        log("Alteração", true, getRegistros(), getRegistros(), os.getCod());
 
         return true;
     }
@@ -149,8 +159,8 @@ public class Servidor {
         return BancodeDados.listarTodos().size();
     }
 
-    private void log(String funcao, boolean alterado, int tamanhoAntes, int tamanhoAtual, int cod) {
-        String alteracao = alterado ? "Alteração realizada!" : "Sem alteração na estrutura";
+    private void log(String funcao, boolean sucesso, int tamanhoAntes, int tamanhoAtual, int cod) {
+        String alteracao = sucesso ? "Operação realizada com sucesso!" : "Operação não realizada.";
 
         LocalDateTime agora = LocalDateTime.now();
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
@@ -162,7 +172,7 @@ public class Servidor {
             "%s no Registro %d\n" +
             "%s\n" +
             "Tamanho atual: %d\n",
-            formatter.format(agora), agora.format(formatter), tamanhoAntes, funcao, cod, alteracao, tamanhoAtual);
+            funcao, agora.format(formatter), tamanhoAntes, funcao, cod, alteracao, tamanhoAtual);
 
         try (FileWriter escreverArq = new FileWriter("log.txt", true);
              BufferedWriter escreverBuf = new BufferedWriter(escreverArq);

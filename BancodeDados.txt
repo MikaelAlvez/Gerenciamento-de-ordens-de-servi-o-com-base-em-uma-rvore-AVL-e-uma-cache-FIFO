@@ -67,4 +67,4 @@
 67,Manutenção de Aquecedor Solar,Verificação e ajuste,2024-08-10T23:06:02.008711337
 68,Reparo de Ventiladores de Teto,Conserto de motor,2024-08-10T23:06:24.113951736
 69,Instalação de Placas de Identificação,Colocar placas na fachada,2024-08-10T23:06:55.755961545
-70,Manutenção de sistema de Alarme,Troca de sensor,2024-08-10T23:07:20.613600095
+70,Formatação,Sistema operacional windows,2024-09-15T12:10:34.771819733
