@@ -3,34 +3,23 @@ package GerenciamentodeOSsTableHash;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Random;
 
 public class Cache {
     private ArrayList<OrdensdeServicos> cache;
     private final int tamanhoCache = 20;
+    private Random random;
 
     public Cache() {
         this.cache = new ArrayList<>();
+        this.random = new Random();
     }
 
-    // Exibir os itens presentes na cache
-    public void exibirCache() {
-        if (cache.isEmpty()) {
-            System.out.println("Memória cache vazia!");
-            return;
-        }
-        System.out.println("Cache atual:");
-        for (OrdensdeServicos os : cache) {
-            System.out.println("\nCódigo: " + os.getCod() + 
-                               "\nNome: " + os.getNome() + 
-                               "\nDescrição: " + os.getDescricao() +
-                               "\nHorário da solicitação: " + os.getHorario() + "\n");
-        }
-    }
-
-    // Inserir OS na cache, aplicando a política FIFO se necessário
-    public void fifo(OrdensdeServicos os) {
+    // Inserir OS na cache, aplicando a política Random se necessário
+    public void randomInsert(OrdensdeServicos os) {
         if (cache.size() >= tamanhoCache) {
-            cache.remove(0); // Remove o item mais antigo
+            int indexAleatorio = random.nextInt(tamanhoCache); // Seleciona um índice aleatório
+            cache.remove(indexAleatorio); // Remove o item aleatoriamente selecionado
         }
         cache.add(os); // Adiciona o novo item
     }

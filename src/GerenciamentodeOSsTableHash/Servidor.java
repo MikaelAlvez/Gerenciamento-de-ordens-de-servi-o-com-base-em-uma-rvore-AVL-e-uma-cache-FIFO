@@ -59,7 +59,7 @@ public class Servidor {
 
         ordem = BancodeDados.buscar(cod);
         if (ordem != null) {
-            cache.fifo(ordem);
+            cache.randomInsert(ordem);
             miss++;
         }
 
@@ -95,7 +95,7 @@ public class Servidor {
 
         if (ordem != null) {
             cache.remover(ordem);
-            cache.fifo(os);
+            cache.randomInsert(os);
         }
 
         atualizarArquivo();
