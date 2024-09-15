@@ -34,6 +34,9 @@ public class ClienteHandler {
                     removerOS();
                     break;
                 case 6:
+                    exibirQuantidadeRegistros();
+                    break;
+                case 7:
                     sair();
                     return;
                 default:
@@ -49,7 +52,8 @@ public class ClienteHandler {
         System.out.println("[3] Cadastrar OS");
         System.out.println("[4] Editar OS");
         System.out.println("[5] Remover OS");
-        System.out.println("[6] Sair");
+        System.out.println("[6] Quantidade de registros");
+        System.out.println("[7] Sair");
     }
 
     private int obterOpcao() {
@@ -154,6 +158,11 @@ public class ClienteHandler {
         } else {
             System.out.println("Falha ao remover a OS.");
         }
+    }
+
+    private void exibirQuantidadeRegistros() {
+        int registros = cliente.getRegistros();
+        System.out.println("\nTotal de registros de OS: " + registros);
     }
 
     private void sair() {
