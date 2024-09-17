@@ -81,6 +81,24 @@ public class TabelaHash {
         }
         return listaTodos;
     }
+    
+    public String estadoTabelaHash() {
+        StringBuilder sb = new StringBuilder();
+        sb.append("Número de elementos: ").append(elementos).append("\n");
+        sb.append("Capacidade da tabela: ").append(tamanho).append("\n");
+        sb.append("Fator de carga: ").append((double) elementos / tamanho).append("\n");
+
+        // Checa e adiciona informações sobre colisões
+        int bucketsComColisao = 0;
+        for (LinkedList<OrdensdeServicos> lista : tabela) {
+            if (lista.size() > 1) {
+                bucketsComColisao++;
+            }
+        }
+        sb.append("Buckets com colisão: ").append(bucketsComColisao).append("\n");
+
+        return sb.toString();
+    }
 
     public int getTamanhoAtual() {
         return tamanho;

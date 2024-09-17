@@ -165,6 +165,7 @@ public class Servidor {
         LocalDateTime agora = LocalDateTime.now();
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
 
+        // Cria a mensagem principal do log
         String message = String.format(
             "\n--- %s ---\n" +
             "Data e Hora: %s\n" +
@@ -174,6 +175,10 @@ public class Servidor {
             "Tamanho atual: %d\n",
             funcao, agora.format(formatter), tamanhoAntes, funcao, cod, alteracao, tamanhoAtual);
 
+        // Adiciona o estado da tabela hash ao log
+        String estadoTabelaHash = BancodeDados.estadoTabelaHash();
+        message += estadoTabelaHash;
+
         try (FileWriter escreverArq = new FileWriter("log.txt", true);
              BufferedWriter escreverBuf = new BufferedWriter(escreverArq);
              PrintWriter exibir = new PrintWriter(escreverBuf)) {
@@ -182,6 +187,7 @@ public class Servidor {
             e.printStackTrace();
         }
     }
+
 
     public void logCache() {
         try (FileWriter escreverArq = new FileWriter("logCache.txt", true);
