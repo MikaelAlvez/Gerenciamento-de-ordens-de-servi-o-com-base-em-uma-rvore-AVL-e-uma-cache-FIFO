@@ -1,4 +1,4 @@
-package GerenciamentodeOSsTableHash;
+package GerenciamentodeOSsCompressao;
 
 import java.time.LocalDateTime;
 
@@ -22,6 +22,17 @@ public class OrdensdeServicos {
     this.nome = nome;
     this.descricao = descricao;
     this.horario = LocalDateTime.now();
+  }
+  
+  public OrdensdeServicos(Integer codigo) {
+	  if (codigo != null) {
+	      if (codigo > cont) {
+	        cont = codigo;
+	      }
+	      this.cod = codigo;
+	    } else {
+	      this.cod = cont++;
+	    }
   }
 
   public int getCod() {

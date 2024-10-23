@@ -1,4 +1,4 @@
-1,Manutenção Ar Condicionado,Substituição do filtro,2024-08-10T22:34:11.845832864
+1,Limpeza de Janelas,Limpeza de janelas externas,2024-08-10T22:43:01.238920915
 2,Instalação de Tomada,Adicionar uma nova tomada,2024-08-10T22:34:41.307288111
 3,Instalação de Tomada,Adicionar uma nova tomada,2024-08-10T22:35:09.839974562
 4,Limpeza de Caldeira,Desmonte e limpeza completa,2024-08-10T22:35:41.209326947
@@ -66,5 +66,35 @@
 66,Limpeza de Áreas Externas,Limpeza de calçadas e jardim,2024-08-10T23:05:39.945825423
 67,Manutenção de Aquecedor Solar,Verificação e ajuste,2024-08-10T23:06:02.008711337
 68,Reparo de Ventiladores de Teto,Conserto de motor,2024-08-10T23:06:24.113951736
-69,Instalação de Placas de Identificação,Colocar placas na fachada,2024-08-10T23:06:55.755961545
-70,Formatação,Sistema operacional windows,2024-09-15T12:10:34.771819733
+69,Limpeza de Áreas Externas,Limpeza de calçadas e jardim,2024-08-10T23:05:39.945825423
+70,Limpeza,Limpeza geral,2024-10-16T17:05:58.442342122
+71,Instalação de Parabólicas,Montar antena de TV,2024-08-10T23:03:11.648237307
+72,Manutenção de Painéis Solares,Verificação e ajuste,2024-08-10T23:03:33.127176709
+73,Reparo de Forno,Conserto de aquecimento,2024-08-10T23:04:02.172869384
+74,Adicionar memória,Memória RAM 8Gb,2024-10-16T15:58:39.591514733
+75,Reparo de Portão,Troca de motor,2024-08-10T22:36:31.000243492
+76,Instalação de Cortina,Colocar trilho e cortina,2024-08-10T22:36:53.893423
+77,Manutenção de Elevador,Inspeção e ajuste,2024-08-10T22:37:21.268041855
+78,Troca de Lâmpada,Substituir lâmpada queimada,2024-08-10T22:37:44.992716137
+79,Reparo de Vazamento,Conserto em tubo da cozinha,2024-08-10T22:38:10.147603317
+80,Instalação de Ar Condicionado,Colocar unidade externa,2024-08-10T22:38:34.176193148
+81,Limpeza de Carpetes,Limpeza profunda dos carpetes,2024-08-10T22:39:02.222344111
+82,Reparo de Telhado,Substituição de telhas,2024-08-10T22:39:29.045985264
+83,Instalação de Segurança,Configuração de câmeras,2024-08-10T22:40:00.943127771
+84,Manutenção de Jardins,Podar arbustos e plantar flores,2024-08-10T22:40:47.103788785
+85,Manutenção de computador,Formatação,2024-09-14T20:06:13.148160616
+86,MAnutenção,MAnutenção,2024-08-11T19:06:09.077378383
+87,Manutenção de Piscina,Limpeza e tratamento da água,2024-08-10T22:41:50.752361539
+88,Reparo de Computadores,Conserto de hardware,2024-08-10T22:42:15.790271833
+89,Instalação de Cercas,Colocar cercas no jardim,2024-08-10T22:42:40.266339728
+90,Limpeza de Janelas,Limpeza de janelas externas,2024-08-10T22:43:01.238920915
+91,Manutenção de Geladeira,Checar e substituir peças,2024-08-10T22:43:21.36502254
+92,Reparo de TV,Conserto de tela quebrada,2024-08-10T22:43:47.842652447
+93,Instalação de Móveis,Montar armários e mesas,2024-08-10T22:44:10.840223219
+94,Manutenção de Aquecedor,Inspeção e ajuste,2024-08-10T22:44:34.679277368
+95,Reparo de Freezer,Conserto de motor,2024-08-10T22:45:06.46069089
+96,Instalação de Cortinas,Colocar trilho e cortina,2024-08-10T22:45:32.564934407
+97,Limpeza de Ar Condicionado,Manutenção e limpeza,2024-08-10T22:46:00.96309321
+98,Reparo de Ventiladores de Teto,Conserto de motor,2024-08-10T23:06:24.113951736
+99,Limpeza de Áreas Externas,Limpeza de calçadas e jardim,2024-08-10T23:05:39.945825423
+100,Manutenção de computador,Formatar e instalar linux,2024-10-22T18:45:27.120766638

@@ -1,4 +1,4 @@
-package GerenciadordeOSCompressao;
+package GerenciamentodeOSsCompressao;
 
 import java.util.List;
 import java.util.Scanner;

@@ -1,9 +1,9 @@
-package GerenciadordeOSCompressao;
+package GerenciamentodeOSsCompressao;
 
 import java.util.LinkedList;
 
 public class TabelaHash {
-    private LinkedList<OrdensdeServicos>[] tabela;
+    private ListaAutoAjustavel<OrdensdeServicos>[] tabela;
     private int tamanho;
     private int elementos;
     private final double fatorCargaMaximo = 0.75;
@@ -12,9 +12,9 @@ public class TabelaHash {
     public TabelaHash(int tamanhoInicial) {
         this.tamanho = tamanhoInicial;
         this.elementos = 0;
-        tabela = new LinkedList[tamanho];
+        tabela = new ListaAutoAjustavel[tamanho];
         for (int i = 0; i < tamanho; i++) {
-            tabela[i] = new LinkedList<>();
+            tabela[i] = new ListaAutoAjustavel<>();
         }
     }
 
@@ -28,15 +28,15 @@ public class TabelaHash {
         }
 
         int indice = funcaoHash(os.getCod());
-        tabela[indice].add(os);
+        tabela[indice].inserir(os);
         elementos++;
     }
 
     public OrdensdeServicos buscar(int codigo) {
         int indice = funcaoHash(codigo);
-        for (OrdensdeServicos os : tabela[indice]) {
+        for (OrdensdeServicos os : tabela[indice].listarTodos()) {
             if (os.getCod() == codigo) {
-                return os;
+                return os; // Elemento encontrado
             }
         }
         return null; // Não encontrado
@@ -44,7 +44,7 @@ public class TabelaHash {
 
     public void remover(int codigo) {
         int indice = funcaoHash(codigo);
-        boolean removido = tabela[indice].removeIf(os -> os.getCod() == codigo);
+        boolean removido = tabela[indice].remover(new OrdensdeServicos(codigo)); // Aqui você tentaria passar um objeto com apenas o código
         if (removido) {
             elementos--;
         }
@@ -52,16 +52,17 @@ public class TabelaHash {
 
     private void redimensionar() {
         int novoTamanho = tamanho * 2;
-        LinkedList<OrdensdeServicos>[] novaTabela = new LinkedList[novoTamanho];
+        ListaAutoAjustavel<OrdensdeServicos>[] novaTabela = new ListaAutoAjustavel[novoTamanho];
         for (int i = 0; i < novoTamanho; i++) {
-            novaTabela[i] = new LinkedList<>();
+            novaTabela[i] = new ListaAutoAjustavel<>();
         }
 
         // Re-hash dos elementos da tabela antiga para a nova tabela
-        for (LinkedList<OrdensdeServicos> lista : tabela) {
-            for (OrdensdeServicos os : lista) {
+        for (ListaAutoAjustavel<OrdensdeServicos> lista : tabela) {
+            LinkedList<OrdensdeServicos> ordens = lista.listarTodos();
+            for (OrdensdeServicos os : ordens) {
                 int novoIndice = os.getCod() % novoTamanho;
-                novaTabela[novoIndice].add(os);
+                novaTabela[novoIndice].inserir(os);
             }
         }
 
@@ -70,18 +71,14 @@ public class TabelaHash {
         tamanho = novoTamanho;
     }
 
-    public LinkedList<OrdensdeServicos> getLista(int indice) {
-        return tabela[indice];
-    }
-
     public LinkedList<OrdensdeServicos> listarTodos() {
         LinkedList<OrdensdeServicos> listaTodos = new LinkedList<>();
-        for (LinkedList<OrdensdeServicos> lista : tabela) {
-            listaTodos.addAll(lista);
+        for (ListaAutoAjustavel<OrdensdeServicos> lista : tabela) {
+            listaTodos.addAll(lista.listarTodos());
         }
         return listaTodos;
     }
-    
+
     public String estadoTabelaHash() {
         StringBuilder sb = new StringBuilder();
         sb.append("Número de elementos: ").append(elementos).append("\n");
@@ -91,17 +88,18 @@ public class TabelaHash {
         // Checa e adiciona informações sobre colisões
         int bucketsComColisao = 0;
         for (int i = 0; i < tabela.length; i++) {
-            LinkedList<OrdensdeServicos> lista = tabela[i];
-            if (lista.size() > 1) {
+            ListaAutoAjustavel<OrdensdeServicos> lista = tabela[i];
+            LinkedList<OrdensdeServicos> ordens = lista.listarTodos();
+            if (ordens.size() > 1) {
                 bucketsComColisao++;
             }
 
             // Exibe os valores armazenados no índice
             sb.append("Index ").append(i).append("-> ");
-            if (lista.isEmpty()) {
+            if (ordens.isEmpty()) {
                 sb.append("vazio\n");
             } else {
-                for (OrdensdeServicos os : lista) {
+                for (OrdensdeServicos os : ordens) {
                     sb.append(os.getCod()).append(" ");
                 }
                 sb.append("\n");
@@ -112,7 +110,6 @@ public class TabelaHash {
 
         return sb.toString();
     }
-
 
     public int getTamanhoAtual() {
         return tamanho;

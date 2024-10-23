@@ -1,4 +1,4 @@
-package GerenciamentodeOSsTableHash;
+package GerenciamentodeOSsCompressao;
 
 import java.util.List;
 

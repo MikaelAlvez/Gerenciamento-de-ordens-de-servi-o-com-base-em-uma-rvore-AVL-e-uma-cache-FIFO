@@ -1,4 +1,4 @@
-package GerenciamentodeOSsTableHash;
+package GerenciamentodeOSsCompressao;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -17,12 +17,13 @@ public class Servidor {
     private int miss;
 
     public Servidor() {
-        this.BancodeDados = new TabelaHash(20);
+        this.BancodeDados = new TabelaHash(100);
         this.cache = new Cache();
         this.hits = 0;
         this.miss = 0;
 
         carregarDadosIniciais("BancodeDados.txt");
+        cache.preencherCacheAutomaticamente(); // Chama o método para preencher a cache
     }
 
     public void carregarDadosIniciais(String fileName) {
@@ -179,10 +180,11 @@ public class Servidor {
         String estadoTabelaHash = BancodeDados.estadoTabelaHash();
         message += estadoTabelaHash;
 
-        try (FileWriter escreverArq = new FileWriter("log.txt", true);
+        try (FileWriter escreverArq = new FileWriter("logServidor.txt", true);
              BufferedWriter escreverBuf = new BufferedWriter(escreverArq);
              PrintWriter exibir = new PrintWriter(escreverBuf)) {
             exibir.println(message);
+            exibir.println("---------------------------------------");
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -208,12 +210,13 @@ public class Servidor {
             exibir.println("Hits: " + hits);
             exibir.println("Misses: " + miss);
             exibir.println("Data e Hora: " + agora.format(formatter));
-            exibir.println("-----------------------------");
+            exibir.println("---------------------------------------");
 
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
+
 
     public TabelaHash getBancodeDados() {
         return BancodeDados;

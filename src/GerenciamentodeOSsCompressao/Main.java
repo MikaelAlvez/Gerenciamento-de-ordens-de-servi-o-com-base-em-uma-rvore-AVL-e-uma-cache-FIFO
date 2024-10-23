@@ -1,8 +1,4 @@
-package GerenciadordeOSCompressao;
-
-import GerenciamentodeOSsTableHash.Cliente;
-import GerenciamentodeOSsTableHash.ClienteHandler;
-import GerenciamentodeOSsTableHash.Servidor;
+package GerenciamentodeOSsCompressao;
 
 public class Main {
     public static void main(String[] args) {
