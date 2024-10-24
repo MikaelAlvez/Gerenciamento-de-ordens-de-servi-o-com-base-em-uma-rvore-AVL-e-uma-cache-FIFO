@@ -1,0 +1,739 @@
+Adicionado: Cód: 1
+
+Adicionado: Cód: 2
+
+Adicionado: Cód: 3
+
+Adicionado: Cód: 4
+
+Adicionado: Cód: 5
+
+Adicionado: Cód: 6
+
+Adicionado: Cód: 7
+
+Adicionado: Cód: 8
+
+Adicionado: Cód: 9
+
+Adicionado: Cód: 10
+
+Adicionado: Cód: 11
+
+Adicionado: Cód: 12
+
+Adicionado: Cód: 13
+
+Adicionado: Cód: 14
+
+Adicionado: Cód: 15
+
+Adicionado: Cód: 16
+
+Adicionado: Cód: 17
+
+Adicionado: Cód: 18
+
+Adicionado: Cód: 19
+
+Adicionado: Cód: 20
+
+Adicionado: Cód: 21
+
+Adicionado: Cód: 22
+
+Adicionado: Cód: 23
+
+Adicionado: Cód: 24
+
+Tabela redimensionada para um tamanho maior
+Adicionado: Cód: 25
+
+Adicionado: Cód: 26
+
+Adicionado: Cód: 27
+
+Adicionado: Cód: 28
+
+Adicionado: Cód: 29
+
+Adicionado: Cód: 30
+
+Removido: Cód: 10
+
+Adicionado: Cód: 31
+
+Removido: Cód: 5
+
+Adicionado: Cód: 32
+
+Removido: Cód: 26
+
+Adicionado: Cód: 33
+
+Removido: Cód: 22
+
+Adicionado: Cód: 34
+
+Removido: Cód: 19
+
+Adicionado: Cód: 35
+
+Removido: Cód: 11
+
+Adicionado: Cód: 36
+
+Removido: Cód: 8
+
+Adicionado: Cód: 37
+
+Removido: Cód: 27
+
+Adicionado: Cód: 38
+
+Removido: Cód: 13
+
+Adicionado: Cód: 39
+
+Removido: Cód: 37
+
+Adicionado: Cód: 40
+
+Removido: Cód: 29
+
+Adicionado: Cód: 41
+
+Removido: Cód: 1
+
+Adicionado: Cód: 42
+
+Removido: Cód: 9
+
+Adicionado: Cód: 43
+
+Removido: Cód: 35
+
+Adicionado: Cód: 44
+
+Removido: Cód: 40
+
+Adicionado: Cód: 45
+
+Removido: Cód: 17
+
+Adicionado: Cód: 46
+
+Tabela redimensionada para um tamanho maior
+Removido: Cód: 32
+
+Adicionado: Cód: 47
+
+Removido: Cód: 31
+
+Adicionado: Cód: 48
+
+Removido: Cód: 39
+
+Adicionado: Cód: 49
+
+Removido: Cód: 42
+
+Adicionado: Cód: 50
+
+Removido: Cód: 21
+
+Adicionado: Cód: 51
+
+Removido: Cód: 38
+
+Adicionado: Cód: 52
+
+Removido: Cód: 48
+
+Adicionado: Cód: 53
+
+Removido: Cód: 6
+
+Adicionado: Cód: 54
+
+Removido: Cód: 24
+
+Adicionado: Cód: 55
+
+Removido: Cód: 43
+
+Adicionado: Cód: 56
+
+Removido: Cód: 53
+
+Adicionado: Cód: 57
+
+Removido: Cód: 55
+
+Adicionado: Cód: 58
+
+Removido: Cód: 47
+
+Adicionado: Cód: 59
+
+Removido: Cód: 36
+
+Adicionado: Cód: 60
+
+Removido: Cód: 45
+
+Adicionado: Cód: 61
+
+Removido: Cód: 51
+
+Adicionado: Cód: 62
+
+Removido: Cód: 52
+
+Adicionado: Cód: 63
+
+Removido: Cód: 14
+
+Adicionado: Cód: 64
+
+Removido: Cód: 3
+
+Adicionado: Cód: 65
+
+Removido: Cód: 33
+
+Adicionado: Cód: 66
+
+Removido: Cód: 20
+
+Adicionado: Cód: 67
+
+Removido: Cód: 41
+
+Adicionado: Cód: 68
+
+Removido: Cód: 4
+
+Adicionado: Cód: 69
+
+Removido: Cód: 67
+
+Adicionado: Cód: 70
+
+Removido: Cód: 64
+
+Adicionado: Cód: 71
+
+Removido: Cód: 46
+
+Adicionado: Cód: 72
+
+Removido: Cód: 68
+
+Adicionado: Cód: 73
+
+Removido: Cód: 23
+
+Adicionado: Cód: 74
+
+Removido: Cód: 34
+
+Adicionado: Cód: 75
+
+Removido: Cód: 56
+
+Adicionado: Cód: 76
+
+Removido: Cód: 16
+
+Adicionado: Cód: 77
+
+Removido: Cód: 7
+
+Adicionado: Cód: 78
+
+Removido: Cód: 73
+
+Adicionado: Cód: 79
+
+Removido: Cód: 12
+
+Adicionado: Cód: 80
+
+Removido: Cód: 78
+
+Adicionado: Cód: 81
+
+Removido: Cód: 69
+
+Adicionado: Cód: 82
+
+Removido: Cód: 63
+
+Adicionado: Cód: 83
+
+Removido: Cód: 82
+
+Adicionado: Cód: 84
+
+Removido: Cód: 18
+
+Adicionado: Cód: 85
+
+Removido: Cód: 28
+
+Adicionado: Cód: 86
+
+Removido: Cód: 75
+
+Adicionado: Cód: 87
+
+Removido: Cód: 44
+
+Adicionado: Cód: 88
+
+Removido: Cód: 2
+
+Adicionado: Cód: 89
+
+Removido: Cód: 72
+
+Adicionado: Cód: 90
+
+Removido: Cód: 65
+
+Adicionado: Cód: 91
+
+Removido: Cód: 83
+
+Adicionado: Cód: 92
+
+Removido: Cód: 77
+
+Adicionado: Cód: 93
+
+Removido: Cód: 61
+
+Adicionado: Cód: 94
+
+Removido: Cód: 76
+
+Adicionado: Cód: 95
+
+Removido: Cód: 62
+
+Adicionado: Cód: 96
+
+Tabela redimensionada para um tamanho maior
+Removido: Cód: 84
+
+Adicionado: Cód: 97
+
+Removido: Cód: 88
+
+Adicionado: Cód: 98
+
+Removido: Cód: 90
+
+Adicionado: Cód: 99
+
+Removido: Cód: 99
+
+Adicionado: Cód: 100
+
+Localizado na cache: Cód: 100
+
+Localizado na cache: Cód: 98
+
+Localizado na cache: Cód: 97
+
+Localizado na cache: Cód: 96
+
+Localizado na cache: Cód: 95
+
+Localizado na cache: Cód: 94
+
+Localizado na cache: Cód: 93
+
+Localizado na cache: Cód: 92
+
+Localizado na cache: Cód: 91
+
+Localizado na cache: Cód: 89
+
+Localizado na cache: Cód: 87
+
+Localizado na cache: Cód: 86
+
+Localizado na cache: Cód: 85
+
+Localizado na cache: Cód: 81
+
+Localizado na cache: Cód: 80
+
+Localizado na cache: Cód: 79
+
+Localizado na cache: Cód: 74
+
+Localizado na cache: Cód: 71
+
+Localizado na cache: Cód: 70
+
+Localizado na cache: Cód: 66
+
+Localizado na cache: Cód: 60
+
+Localizado na cache: Cód: 59
+
+Localizado na cache: Cód: 58
+
+Localizado na cache: Cód: 57
+
+Localizado na cache: Cód: 54
+
+Localizado na cache: Cód: 50
+
+Localizado na cache: Cód: 49
+
+Localizado na cache: Cód: 30
+
+Localizado na cache: Cód: 25
+
+Localizado na cache: Cód: 15
+
+Removido: Cód: 100
+
+Adicionado: Cód: 3
+
+Localizado na cache: Cód: 3
+
+Localizado na cache: Cód: 98
+
+Localizado na cache: Cód: 97
+
+Localizado na cache: Cód: 96
+
+Localizado na cache: Cód: 95
+
+Localizado na cache: Cód: 94
+
+Localizado na cache: Cód: 93
+
+Localizado na cache: Cód: 92
+
+Localizado na cache: Cód: 91
+
+Localizado na cache: Cód: 89
+
+Localizado na cache: Cód: 87
+
+Localizado na cache: Cód: 86
+
+Localizado na cache: Cód: 85
+
+Localizado na cache: Cód: 81
+
+Localizado na cache: Cód: 80
+
+Localizado na cache: Cód: 79
+
+Localizado na cache: Cód: 74
+
+Localizado na cache: Cód: 71
+
+Localizado na cache: Cód: 70
+
+Localizado na cache: Cód: 66
+
+Localizado na cache: Cód: 60
+
+Localizado na cache: Cód: 59
+
+Localizado na cache: Cód: 58
+
+Localizado na cache: Cód: 57
+
+Localizado na cache: Cód: 54
+
+Localizado na cache: Cód: 50
+
+Localizado na cache: Cód: 49
+
+Localizado na cache: Cód: 30
+
+Localizado na cache: Cód: 25
+
+Localizado na cache: Cód: 15
+
+Removido: Cód: 81
+
+Adicionado: Cód: 7
+
+Localizado na cache: Cód: 7
+
+Localizado na cache: Cód: 3
+
+Localizado na cache: Cód: 98
+
+Localizado na cache: Cód: 97
+
+Localizado na cache: Cód: 96
+
+Localizado na cache: Cód: 95
+
+Localizado na cache: Cód: 94
+
+Localizado na cache: Cód: 93
+
+Localizado na cache: Cód: 92
+
+Localizado na cache: Cód: 91
+
+Localizado na cache: Cód: 89
+
+Localizado na cache: Cód: 87
+
+Localizado na cache: Cód: 86
+
+Localizado na cache: Cód: 85
+
+Localizado na cache: Cód: 80
+
+Localizado na cache: Cód: 79
+
+Localizado na cache: Cód: 74
+
+Localizado na cache: Cód: 71
+
+Localizado na cache: Cód: 70
+
+Localizado na cache: Cód: 66
+
+Localizado na cache: Cód: 60
+
+Localizado na cache: Cód: 59
+
+Localizado na cache: Cód: 58
+
+Localizado na cache: Cód: 57
+
+Localizado na cache: Cód: 54
+
+Localizado na cache: Cód: 50
+
+Localizado na cache: Cód: 49
+
+Localizado na cache: Cód: 30
+
+Localizado na cache: Cód: 25
+
+Localizado na cache: Cód: 15
+
+Removido: Cód: 86
+
+Adicionado: Cód: 2
+
+Localizado na cache: Cód: 2
+
+Localizado na cache: Cód: 7
+
+Localizado na cache: Cód: 3
+
+Localizado na cache: Cód: 98
+
+Localizado na cache: Cód: 97
+
+Localizado na cache: Cód: 96
+
+Localizado na cache: Cód: 95
+
+Localizado na cache: Cód: 94
+
+Localizado na cache: Cód: 93
+
+Localizado na cache: Cód: 92
+
+Localizado na cache: Cód: 91
+
+Localizado na cache: Cód: 89
+
+Localizado na cache: Cód: 87
+
+Localizado na cache: Cód: 85
+
+Localizado na cache: Cód: 80
+
+Localizado na cache: Cód: 79
+
+Localizado na cache: Cód: 74
+
+Localizado na cache: Cód: 71
+
+Localizado na cache: Cód: 70
+
+Localizado na cache: Cód: 66
+
+Localizado na cache: Cód: 60
+
+Localizado na cache: Cód: 59
+
+Localizado na cache: Cód: 58
+
+Localizado na cache: Cód: 57
+
+Localizado na cache: Cód: 54
+
+Localizado na cache: Cód: 50
+
+Localizado na cache: Cód: 49
+
+Localizado na cache: Cód: 30
+
+Localizado na cache: Cód: 25
+
+Localizado na cache: Cód: 15
+
+Removido: Cód: 74
+
+Adicionado: Cód: 101
+
+Localizado na cache: Cód: 101
+
+Localizado na cache: Cód: 2
+
+Localizado na cache: Cód: 7
+
+Localizado na cache: Cód: 3
+
+Localizado na cache: Cód: 98
+
+Localizado na cache: Cód: 97
+
+Localizado na cache: Cód: 96
+
+Localizado na cache: Cód: 95
+
+Localizado na cache: Cód: 94
+
+Localizado na cache: Cód: 93
+
+Localizado na cache: Cód: 92
+
+Localizado na cache: Cód: 91
+
+Localizado na cache: Cód: 89
+
+Localizado na cache: Cód: 87
+
+Localizado na cache: Cód: 85
+
+Localizado na cache: Cód: 80
+
+Localizado na cache: Cód: 79
+
+Localizado na cache: Cód: 71
+
+Localizado na cache: Cód: 70
+
+Localizado na cache: Cód: 66
+
+Localizado na cache: Cód: 60
+
+Localizado na cache: Cód: 59
+
+Localizado na cache: Cód: 58
+
+Localizado na cache: Cód: 57
+
+Localizado na cache: Cód: 54
+
+Localizado na cache: Cód: 50
+
+Localizado na cache: Cód: 49
+
+Localizado na cache: Cód: 30
+
+Localizado na cache: Cód: 25
+
+Localizado na cache: Cód: 15
+
+Removido: Cód: 85
+
+Adicionado: Cód: 102
+
+Localizado na cache: Cód: 102
+
+Localizado na cache: Cód: 101
+
+Localizado na cache: Cód: 102
+
+Localizado na cache: Cód: 2
+
+Localizado na cache: Cód: 7
+
+Localizado na cache: Cód: 3
+
+Localizado na cache: Cód: 98
+
+Localizado na cache: Cód: 97
+
+Localizado na cache: Cód: 96
+
+Localizado na cache: Cód: 95
+
+Localizado na cache: Cód: 94
+
+Localizado na cache: Cód: 93
+
+Localizado na cache: Cód: 92
+
+Localizado na cache: Cód: 91
+
+Localizado na cache: Cód: 89
+
+Localizado na cache: Cód: 87
+
+Localizado na cache: Cód: 80
+
+Localizado na cache: Cód: 79
+
+Localizado na cache: Cód: 71
+
+Localizado na cache: Cód: 70
+
+Localizado na cache: Cód: 66
+
+Localizado na cache: Cód: 60
+
+Localizado na cache: Cód: 59
+
+Localizado na cache: Cód: 58
+
+Localizado na cache: Cód: 57
+
+Localizado na cache: Cód: 54
+
+Localizado na cache: Cód: 50
+
+Localizado na cache: Cód: 49
+
+Localizado na cache: Cód: 30
+
+Localizado na cache: Cód: 25
+
+Localizado na cache: Cód: 15
+
+Removido: Cód: 79
+
+Adicionado: Cód: 100
+
+Localizado na cache: Cód: 100
+
+Localizado na cache: Cód: 101
+
+Removido: Cód: 102
+
+Removido: Cód: 100
+
+Removido: Cód: 101
+

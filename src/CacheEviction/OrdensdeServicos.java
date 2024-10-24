@@ -1,13 +1,13 @@
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-public class OrdemServico {
+public class OrdensdeServicos {
     private int cod;
     private String nome;
     private String descricao;
     private LocalDateTime horario;
     
-    public OrdemServico(int codigo, String nome, String descricao, String horario) {
+    public OrdensdeServicos(int codigo, String nome, String descricao, String horario) {
     	this.cod = codigo;
         this.nome = nome;
         this.descricao = descricao;

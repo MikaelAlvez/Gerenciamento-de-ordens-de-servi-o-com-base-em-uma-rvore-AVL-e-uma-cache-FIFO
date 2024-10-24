@@ -1,4 +1,3 @@
-package CacheEviction;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileOutputStream;
@@ -16,39 +15,37 @@ public class Servidor {
     private Huffman huffman;
     private int hits;
     private int misses;
-
+    //private String oc;
 
     public Servidor() {
         tabelaHash = new TabelaHash();
         cache = new Cache();
         this.hits = 0;
         this.misses = 0; 
+        //this.oc = log();
     }
 
     public void processarMensagem(Mensagem mensagem) {
         // Descomprimir os dados da mensagem
         int cod = mensagem.getCod();
-        String nomeDescomprimido = mensagem.descomprimirNome(); // Descomprimir nome
-        String descricaoDescomprimida = mensagem.descomprimirDescricao(); // Descomprimir descrição
-        String horaDescomprimida = mensagem.descomprimirHora(); // Descomprimir hora
-        String operacao = mensagem.descomprimirOperacao(); // Descomprimir operação
+        String nomeDescomprimido = mensagem.descomprimirNome();
+        String descricaoDescomprimida = mensagem.descomprimirDescricao();
+        String horaDescomprimida = mensagem.descomprimirHora();
+        String operacao = mensagem.descomprimirOperacao();
 
-        // Processar a operação com base no tipo de mensagem
         switch (operacao) {
             case "Cadastrar":
-                // Criar nova OS com os dados descomprimidos
-                OrdemServico novaOS = new OrdemServico(cod, nomeDescomprimido, descricaoDescomprimida, horaDescomprimida);
-                cadastrarOrdemServico(novaOS); // Cadastrar a ordem de serviço
+                OrdensdeServicos novaOS = new OrdensdeServicos(cod, nomeDescomprimido, descricaoDescomprimida, horaDescomprimida);
+                cadastrarOrdemServico(novaOS);
                 break;
 
             case "Alterar":
-                // Atualizar OS com os dados descomprimidos
-                OrdemServico osEditada = new OrdemServico(cod, nomeDescomprimido, descricaoDescomprimida, horaDescomprimida);
-                atualizarOrdemServico(osEditada); // Alterar ordem de serviço
+                OrdensdeServicos osEditada = new OrdensdeServicos(cod, nomeDescomprimido, descricaoDescomprimida, horaDescomprimida);
+                atualizarOrdemServico(osEditada);
                 break;
 
             case "Remover":
-                OrdemServico osRemover = buscarOrdemServico(cod, true);
+                OrdensdeServicos osRemover = buscarOrdemServico(cod, true);
                 if (osRemover != null) {
                     removerOrdemServico(osRemover);
                 } else {
@@ -65,24 +62,25 @@ public class Servidor {
                 break;
 
             case "Buscar":
-                OrdemServico osBuscada = buscarOrdemServico(cod, false);
+                OrdensdeServicos osBuscada = buscarOrdemServico(cod, false);
                 if (osBuscada != null) {
                     System.out.println(osBuscada);
                 } else {
                     System.out.println("Ordem de Serviço não encontrada.\n");
                 }
                 break;
-
+            /*case "Ocorrencias":
+                ocorrencias(cod);*/
             default:
                 System.out.println("Operação não reconhecida: " + operacao + "\n");
         }
     }
 
 
-    public void cadastrarOrdemServico(OrdemServico os) {
+    public void cadastrarOrdemServico(OrdensdeServicos os) {
         escreverLog("Insercao de Ordem de Servico: " + os.getCodigo());
         tabelaHash.inserir(os.getCodigo(), os);
-        OrdemServico osBuscada = tabelaHash.buscar(os.getCodigo());
+        OrdensdeServicos osBuscada = tabelaHash.buscar(os.getCodigo());
 
         cache.adicionar(osBuscada);
         escreverLogCache("Adicionado à cache: " + osBuscada.getCodigo());
@@ -90,7 +88,7 @@ public class Servidor {
         escreverLog("Estado da Tabela Hash: " + tabelaHash.gerarString());
     }
 
-    public void removerOrdemServico(OrdemServico removeOS) {
+    public void removerOrdemServico(OrdensdeServicos removeOS) {
         escreverLog("Remoção de Ordem de Serviço: " + removeOS.getCodigo());
 
         cache.remover(removeOS.getCodigo());
@@ -102,9 +100,9 @@ public class Servidor {
 
     }
 
-    public void atualizarOrdemServico(OrdemServico novaOS) {
+    public void atualizarOrdemServico(OrdensdeServicos novaOS) {
 
-        OrdemServico osBuscada = buscarNaCache(novaOS.getCodigo());
+        OrdensdeServicos osBuscada = buscarNaCache(novaOS.getCodigo());
 
         if (osBuscada != null) {
             osBuscada.setNome(novaOS.getNome());
@@ -129,13 +127,13 @@ public class Servidor {
         escreverLog("Estado da Tabela Hash: " + tabelaHash.gerarString());
     }
 
-    public OrdemServico buscarNaCache(int codigo) {
-        OrdemServico os = cache.buscar(codigo);
+    public OrdensdeServicos buscarNaCache(int codigo) {
+        OrdensdeServicos os = cache.buscar(codigo);
         return os;
     }
 
-    public OrdemServico buscarOrdemServico(int codigo, boolean isRemove) {
-        OrdemServico buscado = buscarNaCache(codigo);
+    public OrdensdeServicos buscarOrdemServico(int codigo, boolean isRemove) {
+        OrdensdeServicos buscado = buscarNaCache(codigo);
         if (buscado != null) {
             hits++;
             return buscado;
@@ -153,7 +151,98 @@ public class Servidor {
 
         return null;
     }
+    
+    /*public void ocorrencias(int operacao) {
+        oc = log(); // Lê o log de novo
+        switch (operacao) {
+            case 1:
+                List<Integer> insercaoOcorrencias = buscarOcorrencias("Insercao de Ordem de Servico");
+                System.out.println("Ocorrências de Inserção: " + insercaoOcorrencias.size());
+                break;
+            case 2:
+                List<Integer> remocaoOcorrencias = buscarOcorrencias("Remoção de Ordem de Serviço");
+                System.out.println("Ocorrências de Remoção: " + remocaoOcorrencias.size());
+                break;
+            case 3:
+                List<Integer> alteracaoOcorrencias = buscarOcorrencias("Alteracao na Ordem de Servido");
+                System.out.println("Ocorrências de Alteração: " + alteracaoOcorrencias.size());
+                break;
+            case 4:
+                List<Integer> buscaOcorrencias = buscarOcorrencias("Item buscado");
+                System.out.println("Ocorrências de Busca: " + buscaOcorrencias.size());
+                break;
+            default:
+                break;
+        }
+    }
+    
+    public List<Integer> buscarOcorrencias(String operacao) {
+        List<Integer> ocorrencias = new ArrayList<>();
+        int[] lps = construir(operacao);
+        int i = 0; // logs
+        int j = 0; // operacao
 
+        while (i < oc.length()) {
+            // Se os caracteres são iguais, incrementa ambos
+            if (operacao.charAt(j) == oc.charAt(i)) {
+                i++;
+                j++;
+            }
+
+            if (j == operacao.length()) {
+                ocorrencias.add(i - j); //Indice da ocorrencia
+                j = lps[j - 1]; // Ajusta j
+            } else if (i < oc.length() && operacao.charAt(j) != oc.charAt(i)) {
+                // Descontinuidade encontrada
+                if (j != 0) {
+                    j = lps[j - 1];
+                } else {
+                    i++;
+                }
+            }
+        }
+
+        escreverLog("Buscando ocorrências da operação: " + operacao.substring(0, 8) + ". Total encontrado: " + ocorrencias.size());
+        System.out.println("Índices encontrados: " + ocorrencias);
+        return ocorrencias;
+    }
+    
+    private int[] construir(String operacao) {
+        int[] lps = new int[operacao.length()];
+        int length = 0; // prefixo anterior
+        int i = 1;
+
+        while (i < operacao.length()) {
+            if (operacao.charAt(i) == operacao.charAt(length)) {
+                length++;
+                lps[i] = length;
+                i++;
+            } else {
+                if (length != 0) {
+                    length = lps[length - 1];
+                } else {
+                    lps[i] = 0;
+                    i++;
+                }
+            }
+        }
+        return lps;
+    }
+    
+    private String log() {
+        StringBuilder sb = new StringBuilder();
+        try (BufferedReader br = new BufferedReader(new FileReader("logOperacoes.txt"))) {
+            String linha;
+            while ((linha = br.readLine()) != null) {
+                sb.append(linha).append("\n");
+            }
+        } catch (IOException e) {
+            System.err.println("Erro ao ler o arquivo: " + e.getMessage());
+            return "";
+        }
+        return sb.toString();
+    }*/
+    
     public void listagem() {
         System.out.println();
         this.tabelaHash.imprimirTabela();
@@ -175,28 +264,6 @@ public class Servidor {
     private String now() {
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
         return LocalDateTime.now().format(formatter);
-    }
-
-    private int[] construirLPS(String operacao) {
-        int[] lps = new int[operacao.length()];
-        int length = 0; // prefixo anterior
-        int i = 1;
-
-        while (i < operacao.length()) {
-            if (operacao.charAt(i) == operacao.charAt(length)) {
-                length++;
-                lps[i] = length;
-                i++;
-            } else {
-                if (length != 0) {
-                    length = lps[length - 1];
-                } else {
-                    lps[i] = 0;
-                    i++;
-                }
-            }
-        }
-        return lps;
     }
 
     public void escreverLog(String msg) {

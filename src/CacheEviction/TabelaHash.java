@@ -1,4 +1,3 @@
-package CacheEviction;
 import java.io.FileWriter;
 import java.io.IOException;
 
@@ -9,7 +8,7 @@ public class TabelaHash {
     private final double fatorCargaMaximo = 0.75;
 
     public TabelaHash() {
-        tam = encontrarMaiorPrimoAbaixo(proximaPotenciaDe2(30));
+        tam = maiorPrimoAbaixo(proximaPotenciaDe2(30));
         tabela = new ListaAutoajustavel[tam];
         tamanho = 0;
 
@@ -18,7 +17,7 @@ public class TabelaHash {
         }
     }
 
-    public void inserir(int codigo, OrdemServico ordem) {
+    public void inserir(int codigo, OrdensdeServicos ordem) {
         
         if ((double) tamanho / tabela.length >= fatorCargaMaximo) {
             redimensionar();
@@ -35,7 +34,7 @@ public class TabelaHash {
         int indice = hash(codigo);
         ListaAutoajustavel lista = tabela[indice];
 
-        OrdemServico removido = lista.buscar(codigo);
+        OrdensdeServicos removido = lista.buscar(codigo);
         if (removido != null) {
             lista.remover(codigo);
             tamanho--;
@@ -46,14 +45,14 @@ public class TabelaHash {
         }
     }
 
-    public OrdemServico buscar(int codigo) {
+    public OrdensdeServicos buscar(int codigo) {
         int indice = hash(codigo);
         ListaAutoajustavel lista = tabela[indice];
 
         return lista.buscar(codigo);
     }
 
-    public void alterarOrdemServico(OrdemServico novaOrdem) {
+    public void alterarOrdemServico(OrdensdeServicos novaOrdem) {
         int indice = hash(novaOrdem.getCodigo());
         ListaAutoajustavel lista = tabela[indice];
 
@@ -70,7 +69,7 @@ public class TabelaHash {
     }
 
     private void redimensionar() {
-        int novoTamanho = encontrarMaiorPrimoAbaixo(proximaPotenciaDe2(tabela.length * 2));
+        int novoTamanho = maiorPrimoAbaixo(proximaPotenciaDe2(tabela.length * 2));
         ListaAutoajustavel[] novaTabela = new ListaAutoajustavel[novoTamanho];
         for (int i = 0; i < novaTabela.length; i++) {
             novaTabela[i] = new ListaAutoajustavel();
@@ -79,7 +78,7 @@ public class TabelaHash {
         // Re-hash dos elementos da tabela antiga para a nova tabela
         for (ListaAutoajustavel lista : tabela) {
             for (int j = 0; j < lista.contarElementos(); j++) {
-                OrdemServico ordem = lista.buscarPorIndice(j); // Usa o novo método
+                OrdensdeServicos ordem = lista.buscarPorIndice(j); // Usa o novo método
                 if (ordem != null) {
                     novaTabela[hash(ordem.getCodigo())].adicionar(ordem);
                 }
@@ -93,7 +92,7 @@ public class TabelaHash {
     }
 
     private void redimensionarParaMenor() {
-        int novoTamanho = encontrarMaiorPrimoAbaixo(proximaPotenciaDe2(tabela.length / 2));
+        int novoTamanho = maiorPrimoAbaixo(proximaPotenciaDe2(tabela.length / 2));
         ListaAutoajustavel[] novaTabela = new ListaAutoajustavel[novoTamanho];
         for (int i = 0; i < novaTabela.length; i++) {
             novaTabela[i] = new ListaAutoajustavel();
@@ -102,7 +101,7 @@ public class TabelaHash {
         // Transferindo as ordens de serviço para a nova tabela
         for (ListaAutoajustavel lista : tabela) {
             for (int j = 0; j < lista.contarElementos(); j++) {
-                OrdemServico ordem = lista.buscarPorIndice(j); // Usa o novo método
+                OrdensdeServicos ordem = lista.buscarPorIndice(j); // Usa o novo método
                 if (ordem != null) {
                     novaTabela[hash(ordem.getCodigo())].adicionar(ordem);
                 }
@@ -120,7 +119,7 @@ public class TabelaHash {
         	ListaAutoajustavel lista = tabela[i];
    
             for (int j = 0; j < lista.contarElementos(); j++) {
-            	OrdemServico ordem = lista.buscarPorIndice(j);
+            	OrdensdeServicos ordem = lista.buscarPorIndice(j);
                 	if (ordem != null) {
                 		System.out.print("Cód: " +ordem.getCodigo() + 
                 				"\nNome: " + ordem.getNome() +
@@ -151,15 +150,15 @@ public class TabelaHash {
         return potencia;
     }
 
-    private int encontrarMaiorPrimoAbaixo(int n) {
+    private int maiorPrimoAbaixo(int n) {
         n--; 
-        while (!ehPrimo(n)) {
+        while (!primo(n)) {
             n--;
         }
         return n;
     }
 
-    private boolean ehPrimo(int n) {
+    private boolean primo(int n) {
         if (n <= 1)
             return false;
         if (n == 2 || n == 3)

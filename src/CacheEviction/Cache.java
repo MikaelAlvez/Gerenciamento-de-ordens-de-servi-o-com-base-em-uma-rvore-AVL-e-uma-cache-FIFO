@@ -1,21 +1,20 @@
-package CacheEviction;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Random;
 
 public class Cache {
-    private OrdemServico[] cache;
+    private OrdensdeServicos[] cache;
     private final int tamanhoCache = 30;
     private int tamanho;
     private Random random;
     
     public Cache() {
-        this.cache = new OrdemServico[tamanhoCache];
+        this.cache = new OrdensdeServicos[tamanhoCache];
         this.tamanho = 0;
         this.random = new Random();
     }
 
-    public void adicionar(OrdemServico os) {
+    public void adicionar(OrdensdeServicos os) {
         if (tamanho >= tamanhoCache) {
         	removerAleatorio();
         }
@@ -32,7 +31,7 @@ public class Cache {
     private void removerAleatorio() {
         if (tamanho > 0) {
             int indiceAleatorio = random.nextInt(tamanho); // Gera um índice aleatório
-            OrdemServico removido = cache[indiceAleatorio];
+            OrdensdeServicos removido = cache[indiceAleatorio];
 
             // Move todos os itens para preencher o espaço
             for (int i = indiceAleatorio; i < tamanho - 1; i++) {
@@ -44,9 +43,9 @@ public class Cache {
         }
     }
 
-    public OrdemServico buscar(int codigo) {
+    public OrdensdeServicos buscar(int codigo) {
         for (int i = 0; i < tamanho; i++) {
-            OrdemServico os = cache[i];
+            OrdensdeServicos os = cache[i];
             if (os.getCodigo() == codigo) {
 
                 // Move o item para o início do array
@@ -56,7 +55,7 @@ public class Cache {
                 cache[0] = os;
                 return os;
             }
-            LogCache("Consultado: " + os.imprimir());
+            LogCache("Localizado na cache: " + os.imprimir());
         }
         return null;
     }
@@ -74,7 +73,7 @@ public class Cache {
     public void remover(int codigo) {
         for (int i = 0; i < tamanho; i++) {
             if (cache[i].getCodigo() == codigo) {
-                OrdemServico removido = cache[i];
+                OrdensdeServicos removido = cache[i];
                 // Move todos os itens para preencher o espaço
                 for (int j = i; j < tamanho - 1; j++) {
                     cache[j] = cache[j + 1];

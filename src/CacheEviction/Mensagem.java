@@ -1,4 +1,4 @@
-package CacheEviction;
+
 public class Mensagem {
     private int cod;
     private String nome;

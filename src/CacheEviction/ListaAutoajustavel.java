@@ -1,20 +1,19 @@
-package CacheEviction;
 import java.util.ArrayList;
 import java.util.List;
 
 public class ListaAutoajustavel {
-    private List<OrdemServico> os;
+    private List<OrdensdeServicos> os;
 
     public ListaAutoajustavel() {
         this.os = new ArrayList<>();
     }
 
-    public void adicionar(OrdemServico ordem) {
+    public void adicionar(OrdensdeServicos ordem) {
     	os.add(0, ordem);
     }
 
-    public OrdemServico buscar(int codigo) {
-        for (OrdemServico ordem : os) {
+    public OrdensdeServicos buscar(int codigo) {
+        for (OrdensdeServicos ordem : os) {
             if (ordem.getCodigo() == codigo) {
             	os.remove(ordem);
             	os.add(0, ordem);
@@ -32,18 +31,18 @@ public class ListaAutoajustavel {
         return os.size();
     }
 
-    public OrdemServico buscarPorIndice(int index) {
+    public OrdensdeServicos buscarPorIndice(int index) {
         if (index < 0 || index >= os.size()) {
             return null;
         }
-        OrdemServico ordem = os.get(index);
+        OrdensdeServicos ordem = os.get(index);
         os.remove(index);
         os.add(0, ordem);
         return ordem;
     }
 
     public void listarOrdens() {
-        for (OrdemServico ordem : os) {
+        for (OrdensdeServicos ordem : os) {
             System.out.println(ordem.imprimir());
         }
     }

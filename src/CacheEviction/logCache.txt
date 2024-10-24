@@ -1,0 +1,9959 @@
+Adicionado à cache: 1
+----------------------------------
+Estado atual da Cache:
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 2
+----------------------------------
+Estado atual da Cache:
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 3
+----------------------------------
+Estado atual da Cache:
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 4
+----------------------------------
+Estado atual da Cache:
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 5
+----------------------------------
+Estado atual da Cache:
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 6
+----------------------------------
+Estado atual da Cache:
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 7
+----------------------------------
+Estado atual da Cache:
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 8
+----------------------------------
+Estado atual da Cache:
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 9
+----------------------------------
+Estado atual da Cache:
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 10
+----------------------------------
+Estado atual da Cache:
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 11
+----------------------------------
+Estado atual da Cache:
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 12
+----------------------------------
+Estado atual da Cache:
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 13
+----------------------------------
+Estado atual da Cache:
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 14
+----------------------------------
+Estado atual da Cache:
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 15
+----------------------------------
+Estado atual da Cache:
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 16
+----------------------------------
+Estado atual da Cache:
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 17
+----------------------------------
+Estado atual da Cache:
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 18
+----------------------------------
+Estado atual da Cache:
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 19
+----------------------------------
+Estado atual da Cache:
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 20
+----------------------------------
+Estado atual da Cache:
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 21
+----------------------------------
+Estado atual da Cache:
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 22
+----------------------------------
+Estado atual da Cache:
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 23
+----------------------------------
+Estado atual da Cache:
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 24
+----------------------------------
+Estado atual da Cache:
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 25
+----------------------------------
+Estado atual da Cache:
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 26
+----------------------------------
+Estado atual da Cache:
+Cód: 26
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 26
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 26
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 27
+----------------------------------
+Estado atual da Cache:
+Cód: 27
+Cód: 26
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 27
+Cód: 26
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 27
+Cód: 26
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 28
+----------------------------------
+Estado atual da Cache:
+Cód: 28
+Cód: 27
+Cód: 26
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 28
+Cód: 27
+Cód: 26
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 28
+Cód: 27
+Cód: 26
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 29
+----------------------------------
+Estado atual da Cache:
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 26
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 29
+Cód: 28
+Cód: 27
+Cód: 26
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 26
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 30
+----------------------------------
+Estado atual da Cache:
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 26
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 26
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 26
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 10
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 31
+----------------------------------
+Estado atual da Cache:
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 26
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 26
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 26
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 5
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 32
+----------------------------------
+Estado atual da Cache:
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 26
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 26
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 26
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 33
+----------------------------------
+Estado atual da Cache:
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 22
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 34
+----------------------------------
+Estado atual da Cache:
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 19
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 35
+----------------------------------
+Estado atual da Cache:
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 11
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 36
+----------------------------------
+Estado atual da Cache:
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 9
+Cód: 8
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 37
+----------------------------------
+Estado atual da Cache:
+Cód: 37
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 9
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 37
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 9
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 37
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 27
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 9
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 38
+----------------------------------
+Estado atual da Cache:
+Cód: 38
+Cód: 37
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 9
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 38
+Cód: 37
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 9
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 38
+Cód: 37
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 13
+Cód: 12
+Cód: 9
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 39
+----------------------------------
+Estado atual da Cache:
+Cód: 39
+Cód: 38
+Cód: 37
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 9
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 39
+Cód: 38
+Cód: 37
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 9
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 39
+Cód: 38
+Cód: 37
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 9
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 40
+----------------------------------
+Estado atual da Cache:
+Cód: 40
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 9
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 40
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 9
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 40
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 29
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 9
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 41
+----------------------------------
+Estado atual da Cache:
+Cód: 41
+Cód: 40
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 9
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 41
+Cód: 40
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 9
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+----------------------------------
+Estado atual da Cache:
+Cód: 41
+Cód: 40
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 9
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+Cód: 1
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 42
+----------------------------------
+Estado atual da Cache:
+Cód: 42
+Cód: 41
+Cód: 40
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 9
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 42
+Cód: 41
+Cód: 40
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 9
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 42
+Cód: 41
+Cód: 40
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 9
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 43
+----------------------------------
+Estado atual da Cache:
+Cód: 43
+Cód: 42
+Cód: 41
+Cód: 40
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 43
+Cód: 42
+Cód: 41
+Cód: 40
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 43
+Cód: 42
+Cód: 41
+Cód: 40
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 35
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 44
+----------------------------------
+Estado atual da Cache:
+Cód: 44
+Cód: 43
+Cód: 42
+Cód: 41
+Cód: 40
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 44
+Cód: 43
+Cód: 42
+Cód: 41
+Cód: 40
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 44
+Cód: 43
+Cód: 42
+Cód: 41
+Cód: 40
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 45
+----------------------------------
+Estado atual da Cache:
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 42
+Cód: 41
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 45
+Cód: 44
+Cód: 43
+Cód: 42
+Cód: 41
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 42
+Cód: 41
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 17
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 46
+----------------------------------
+Estado atual da Cache:
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 42
+Cód: 41
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 42
+Cód: 41
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 42
+Cód: 41
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 32
+Cód: 31
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 47
+----------------------------------
+Estado atual da Cache:
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 42
+Cód: 41
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 31
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 42
+Cód: 41
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 31
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 42
+Cód: 41
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 31
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 48
+----------------------------------
+Estado atual da Cache:
+Cód: 48
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 42
+Cód: 41
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 48
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 42
+Cód: 41
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 48
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 42
+Cód: 41
+Cód: 39
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 49
+----------------------------------
+Estado atual da Cache:
+Cód: 49
+Cód: 48
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 42
+Cód: 41
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 49
+Cód: 48
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 42
+Cód: 41
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 49
+Cód: 48
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 42
+Cód: 41
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 50
+----------------------------------
+Estado atual da Cache:
+Cód: 50
+Cód: 49
+Cód: 48
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 41
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 50
+Cód: 49
+Cód: 48
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 41
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 50
+Cód: 49
+Cód: 48
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 41
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 21
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 51
+----------------------------------
+Estado atual da Cache:
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 48
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 41
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 51
+Cód: 50
+Cód: 49
+Cód: 48
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 41
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 48
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 41
+Cód: 38
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 52
+----------------------------------
+Estado atual da Cache:
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 48
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 48
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 48
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 53
+----------------------------------
+Estado atual da Cache:
+Cód: 53
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 53
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 53
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 6
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 54
+----------------------------------
+Estado atual da Cache:
+Cód: 54
+Cód: 53
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 54
+Cód: 53
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 54
+Cód: 53
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 24
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 55
+----------------------------------
+Estado atual da Cache:
+Cód: 55
+Cód: 54
+Cód: 53
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 55
+Cód: 54
+Cód: 53
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 55
+Cód: 54
+Cód: 53
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 43
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 56
+----------------------------------
+Estado atual da Cache:
+Cód: 56
+Cód: 55
+Cód: 54
+Cód: 53
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 56
+Cód: 55
+Cód: 54
+Cód: 53
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 56
+Cód: 55
+Cód: 54
+Cód: 53
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 57
+----------------------------------
+Estado atual da Cache:
+Cód: 57
+Cód: 56
+Cód: 55
+Cód: 54
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 57
+Cód: 56
+Cód: 55
+Cód: 54
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 57
+Cód: 56
+Cód: 55
+Cód: 54
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 58
+----------------------------------
+Estado atual da Cache:
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 47
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 59
+----------------------------------
+Estado atual da Cache:
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 41
+Cód: 36
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 60
+----------------------------------
+Estado atual da Cache:
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 45
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 61
+----------------------------------
+Estado atual da Cache:
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 52
+Cód: 51
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 62
+----------------------------------
+Estado atual da Cache:
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 52
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 52
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 52
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 63
+----------------------------------
+Estado atual da Cache:
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 14
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 64
+----------------------------------
+Estado atual da Cache:
+Cód: 64
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 64
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 64
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 3
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 65
+----------------------------------
+Estado atual da Cache:
+Cód: 65
+Cód: 64
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 65
+Cód: 64
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 65
+Cód: 64
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 33
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 66
+----------------------------------
+Estado atual da Cache:
+Cód: 66
+Cód: 65
+Cód: 64
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 66
+Cód: 65
+Cód: 64
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 66
+Cód: 65
+Cód: 64
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 20
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 67
+----------------------------------
+Estado atual da Cache:
+Cód: 67
+Cód: 66
+Cód: 65
+Cód: 64
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 67
+Cód: 66
+Cód: 65
+Cód: 64
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 67
+Cód: 66
+Cód: 65
+Cód: 64
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 41
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 68
+----------------------------------
+Estado atual da Cache:
+Cód: 68
+Cód: 67
+Cód: 66
+Cód: 65
+Cód: 64
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 68
+Cód: 67
+Cód: 66
+Cód: 65
+Cód: 64
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 68
+Cód: 67
+Cód: 66
+Cód: 65
+Cód: 64
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 4
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 69
+----------------------------------
+Estado atual da Cache:
+Cód: 69
+Cód: 68
+Cód: 67
+Cód: 66
+Cód: 65
+Cód: 64
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 69
+Cód: 68
+Cód: 67
+Cód: 66
+Cód: 65
+Cód: 64
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 69
+Cód: 68
+Cód: 67
+Cód: 66
+Cód: 65
+Cód: 64
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 70
+----------------------------------
+Estado atual da Cache:
+Cód: 70
+Cód: 69
+Cód: 68
+Cód: 66
+Cód: 65
+Cód: 64
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 70
+Cód: 69
+Cód: 68
+Cód: 66
+Cód: 65
+Cód: 64
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 70
+Cód: 69
+Cód: 68
+Cód: 66
+Cód: 65
+Cód: 64
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 71
+----------------------------------
+Estado atual da Cache:
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 68
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 71
+Cód: 70
+Cód: 69
+Cód: 68
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 68
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 46
+Cód: 44
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 72
+----------------------------------
+Estado atual da Cache:
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 68
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 68
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 68
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 73
+----------------------------------
+Estado atual da Cache:
+Cód: 73
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 73
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 73
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 23
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 74
+----------------------------------
+Estado atual da Cache:
+Cód: 74
+Cód: 73
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 74
+Cód: 73
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 74
+Cód: 73
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 34
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 75
+----------------------------------
+Estado atual da Cache:
+Cód: 75
+Cód: 74
+Cód: 73
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 75
+Cód: 74
+Cód: 73
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 75
+Cód: 74
+Cód: 73
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 56
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 76
+----------------------------------
+Estado atual da Cache:
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 73
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 76
+Cód: 75
+Cód: 74
+Cód: 73
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 73
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 16
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 77
+----------------------------------
+Estado atual da Cache:
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 73
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 73
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 73
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 12
+Cód: 7
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 78
+----------------------------------
+Estado atual da Cache:
+Cód: 78
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 73
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 12
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 78
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 73
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 12
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 78
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 73
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 12
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 79
+----------------------------------
+Estado atual da Cache:
+Cód: 79
+Cód: 78
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 12
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 79
+Cód: 78
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 12
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 79
+Cód: 78
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 12
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 80
+----------------------------------
+Estado atual da Cache:
+Cód: 80
+Cód: 79
+Cód: 78
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 80
+Cód: 79
+Cód: 78
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 80
+Cód: 79
+Cód: 78
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 81
+----------------------------------
+Estado atual da Cache:
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 69
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 82
+----------------------------------
+Estado atual da Cache:
+Cód: 82
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 82
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 82
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 63
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 83
+----------------------------------
+Estado atual da Cache:
+Cód: 83
+Cód: 82
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 83
+Cód: 82
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 83
+Cód: 82
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 84
+----------------------------------
+Estado atual da Cache:
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 18
+Cód: 15
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 85
+----------------------------------
+Estado atual da Cache:
+Cód: 85
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 15
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 85
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 15
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 85
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 28
+Cód: 25
+Cód: 15
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 86
+----------------------------------
+Estado atual da Cache:
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 25
+Cód: 15
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 86
+Cód: 85
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 25
+Cód: 15
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 75
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 25
+Cód: 15
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 87
+----------------------------------
+Estado atual da Cache:
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 25
+Cód: 15
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 25
+Cód: 15
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 44
+Cód: 30
+Cód: 25
+Cód: 15
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 88
+----------------------------------
+Estado atual da Cache:
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+Cód: 2
+
+----------------------------------
+Estado atual da Cache:
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+Cód: 2
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 89
+----------------------------------
+Estado atual da Cache:
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+----------------------------------
+Estado atual da Cache:
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 74
+Cód: 72
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 90
+----------------------------------
+Estado atual da Cache:
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+----------------------------------
+Estado atual da Cache:
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 65
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 91
+----------------------------------
+Estado atual da Cache:
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 91
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+----------------------------------
+Estado atual da Cache:
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 83
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 92
+----------------------------------
+Estado atual da Cache:
+Cód: 92
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 92
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+----------------------------------
+Estado atual da Cache:
+Cód: 92
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 77
+Cód: 76
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 93
+----------------------------------
+Estado atual da Cache:
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 76
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 93
+Cód: 92
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 76
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+----------------------------------
+Estado atual da Cache:
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 76
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 62
+Cód: 61
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 94
+----------------------------------
+Estado atual da Cache:
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 76
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 62
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 76
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 62
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+----------------------------------
+Estado atual da Cache:
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 76
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 62
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 95
+----------------------------------
+Estado atual da Cache:
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 62
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 62
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+----------------------------------
+Estado atual da Cache:
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 62
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 96
+----------------------------------
+Estado atual da Cache:
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+----------------------------------
+Estado atual da Cache:
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 84
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 97
+----------------------------------
+Estado atual da Cache:
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+----------------------------------
+Estado atual da Cache:
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 88
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 98
+----------------------------------
+Estado atual da Cache:
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+----------------------------------
+Estado atual da Cache:
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 90
+Cód: 89
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 99
+----------------------------------
+Estado atual da Cache:
+Cód: 99
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 99
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+----------------------------------
+Estado atual da Cache:
+Cód: 99
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Adicionado à cache: 100
+----------------------------------
+Estado atual da Cache:
+Cód: 100
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Itens da cache: Cód: 100
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+----------------------------------
+Estado atual da Cache:
+Cód: 100
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 0
+Data e Hora: 2024-10-24 16:49:03
+----------------------------------
+Busca: 3
+----------------------------------
+Estado atual da Cache:
+Cód: 3
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 81
+Cód: 80
+Cód: 79
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 1
+Data e Hora: 2024-10-24 16:50:12
+----------------------------------
+Busca: 7
+----------------------------------
+Estado atual da Cache:
+Cód: 7
+Cód: 3
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 86
+Cód: 85
+Cód: 80
+Cód: 79
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 2
+Data e Hora: 2024-10-24 16:50:20
+----------------------------------
+Busca: 2
+----------------------------------
+Estado atual da Cache:
+Cód: 2
+Cód: 7
+Cód: 3
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 85
+Cód: 80
+Cód: 79
+Cód: 74
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 3
+Data e Hora: 2024-10-24 16:50:26
+----------------------------------
+Adicionado à cache: 101
+----------------------------------
+Estado atual da Cache:
+Cód: 101
+Cód: 2
+Cód: 7
+Cód: 3
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 85
+Cód: 80
+Cód: 79
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 3
+Data e Hora: 2024-10-24 16:51:59
+----------------------------------
+Itens da cache: Cód: 101
+Cód: 2
+Cód: 7
+Cód: 3
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 85
+Cód: 80
+Cód: 79
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+----------------------------------
+Estado atual da Cache:
+Cód: 101
+Cód: 2
+Cód: 7
+Cód: 3
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 85
+Cód: 80
+Cód: 79
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 3
+Data e Hora: 2024-10-24 16:51:59
+----------------------------------
+Adicionado à cache: 102
+----------------------------------
+Estado atual da Cache:
+Cód: 102
+Cód: 101
+Cód: 2
+Cód: 7
+Cód: 3
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 80
+Cód: 79
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 3
+Data e Hora: 2024-10-24 16:52:14
+----------------------------------
+Itens da cache: Cód: 102
+Cód: 101
+Cód: 2
+Cód: 7
+Cód: 3
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 80
+Cód: 79
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+----------------------------------
+Estado atual da Cache:
+Cód: 102
+Cód: 101
+Cód: 2
+Cód: 7
+Cód: 3
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 80
+Cód: 79
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 0
+Misses: 3
+Data e Hora: 2024-10-24 16:52:14
+----------------------------------
+Busca: 100
+----------------------------------
+Estado atual da Cache:
+Cód: 100
+Cód: 101
+Cód: 102
+Cód: 2
+Cód: 7
+Cód: 3
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 80
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 1
+Misses: 4
+Data e Hora: 2024-10-24 16:54:38
+----------------------------------
+Removido da cache: 102
+----------------------------------
+Estado atual da Cache:
+Cód: 100
+Cód: 101
+Cód: 2
+Cód: 7
+Cód: 3
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 80
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 2
+Misses: 4
+Data e Hora: 2024-10-24 16:55:11
+----------------------------------
+Itens da cache: Cód: 100
+Cód: 101
+Cód: 2
+Cód: 7
+Cód: 3
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 80
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+----------------------------------
+Estado atual da Cache:
+Cód: 100
+Cód: 101
+Cód: 2
+Cód: 7
+Cód: 3
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 80
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 2
+Misses: 4
+Data e Hora: 2024-10-24 16:55:11
+----------------------------------
+Removido da cache: 100
+----------------------------------
+Estado atual da Cache:
+Cód: 101
+Cód: 2
+Cód: 7
+Cód: 3
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 80
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 3
+Misses: 4
+Data e Hora: 2024-10-24 16:55:18
+----------------------------------
+Itens da cache: Cód: 101
+Cód: 2
+Cód: 7
+Cód: 3
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 80
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+----------------------------------
+Estado atual da Cache:
+Cód: 101
+Cód: 2
+Cód: 7
+Cód: 3
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 80
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 3
+Misses: 4
+Data e Hora: 2024-10-24 16:55:18
+----------------------------------
+Removido da cache: 101
+----------------------------------
+Estado atual da Cache:
+Cód: 2
+Cód: 7
+Cód: 3
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 80
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 4
+Misses: 4
+Data e Hora: 2024-10-24 16:55:27
+----------------------------------
+Itens da cache: Cód: 2
+Cód: 7
+Cód: 3
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 80
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+----------------------------------
+Estado atual da Cache:
+Cód: 2
+Cód: 7
+Cód: 3
+Cód: 98
+Cód: 97
+Cód: 96
+Cód: 95
+Cód: 94
+Cód: 93
+Cód: 92
+Cód: 91
+Cód: 89
+Cód: 87
+Cód: 80
+Cód: 71
+Cód: 70
+Cód: 66
+Cód: 60
+Cód: 59
+Cód: 58
+Cód: 57
+Cód: 54
+Cód: 50
+Cód: 49
+Cód: 30
+Cód: 25
+Cód: 15
+
+Hits: 4
+Misses: 4
+Data e Hora: 2024-10-24 16:55:27
+----------------------------------

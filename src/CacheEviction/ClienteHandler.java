@@ -1,14 +1,8 @@
-package CacheEviction;
 import java.util.InputMismatchException;
 import java.util.NoSuchElementException;
-import java.io.ByteArrayOutputStream;
-import java.io.IOException;
 import java.time.LocalDateTime;
-import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
-
 import java.util.Scanner;
-import java.util.zip.GZIPOutputStream;
 
 public class ClienteHandler {
     private Servidor server;
@@ -57,6 +51,14 @@ public class ClienteHandler {
                     case 6:
                         exibirQuantidade();
                         break;
+                    /*case 7:
+                    	System.out.println("1-Inserções\n2-Remoções\n3-Alterações\n4-Buscas");
+                        int escolhaLog = sc.nextInt();
+                        
+                        Mensagem mensagemLog = new Mensagem(escolhaLog, "Ocorrencias", "", "", "");
+                        server.escreverLog("Solicitação ocorrência de log recebida.");
+                        server.processarMensagem(mensagemLog);                        
+                        break;*/
                     case 0:
                         System.out.println("\nPrograma encerrado...");
                         option = false;
@@ -97,7 +99,7 @@ public class ClienteHandler {
         int codInserir = sc.nextInt();
         sc.nextLine();
 
-        OrdemServico osInserir = server.buscarOrdemServico(codInserir, false);
+        OrdensdeServicos osInserir = server.buscarOrdemServico(codInserir, false);
 
         if (osInserir != null) {
             System.out.println("OS já existe");
@@ -109,11 +111,9 @@ public class ClienteHandler {
         System.out.println("Descrição da OS:");
         String descricao = sc.nextLine();
 
-     // Inicializa a árvore de Huffman com o texto
-        String[] textos = {nome, descricao}; // Pode incluir mais textos se necessário
+        // Inicializa Huffman e comprime os dados
+        String[] textos = {nome, descricao};
         huffman.inicializar(textos);
-
-        // Comprime o nome e a descrição
         String nomeComprimido = huffman.comprimir(nome);
         String descricaoComprimida = huffman.comprimir(descricao);
 
@@ -121,21 +121,24 @@ public class ClienteHandler {
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
         String hora = horaAtual.format(formatter);
 
-        // Cria a mensagem com os dados comprimidos
+        // Cria mensagem com dados comprimidos
         Mensagem mensagem = new Mensagem(codInserir, "Cadastrar", nomeComprimido, descricaoComprimida, hora);
 
-        server.escreverLog("Solicitação de cadastrar OS " + codInserir + " recebida");
-        System.out.println("\nOS cadastrada com sucesso!\n");
-        server.processarMensagem(mensagem);
-        
-        server.escreverLog("Processando mensagem:");
-        server.escreverLog("Cod: " + codInserir);
-        server.escreverLog("Nome comprimido: " + mensagem.descomprimirNome());
-        server.escreverLog("Descrição comprimida: " + mensagem.descomprimirDescricao());
-        server.escreverLog("Hora comprimida: " + mensagem.descomprimirHora());
-        server.escreverLog("Operação comprimida: " + mensagem.descomprimirOperacao());
-    }
+        // Descomprime para exibir os dados descomprimidos no log
+        String nomeDescomprimido = huffman.descomprimir(mensagem.descomprimirNome());
+        String descricaoDescomprimida = huffman.descomprimir(mensagem.descomprimirDescricao());
 
+        // Log com dados comprimidos
+        server.escreverLog("Solicitação de cadastrar OS " + codInserir + " recebida.\n-----Compressão-----\nNome: " + nomeComprimido + "\nDescrição: " + descricaoComprimida);
+        
+        System.out.println("\nOS cadastrada com sucesso!");
+        System.out.println("Nome: " + nomeDescomprimido);
+        System.out.println("Descrição: " + descricaoDescomprimida + "\n");
+        
+        Mensagem mensagemdes = new Mensagem(codInserir, "Cadastrar", nomeDescomprimido, descricaoDescomprimida, hora);
+
+        server.processarMensagem(mensagemdes);
+    }
 
     private void editarOS() {
         System.out.println("\n----- Editar OS -----");
@@ -143,7 +146,7 @@ public class ClienteHandler {
         int cod = sc.nextInt();
         sc.nextLine();
 
-        OrdemServico osEdit = server.buscarOrdemServico(cod, false);
+        OrdensdeServicos osEdit = server.buscarOrdemServico(cod, false);
         if (osEdit != null) {
             System.out.println(osEdit);
 
@@ -152,11 +155,9 @@ public class ClienteHandler {
             System.out.println("Nova descrição da OS:");
             String descricaoEdit = sc.nextLine();
 
-            // Inicializa a árvore de Huffman com o texto editado
-            String[] textosEditados = {nomeEdit, descricaoEdit}; // Pode incluir mais textos se necessário
+            // Inicializa Huffman e comprime os dados
+            String[] textosEditados = {nomeEdit, descricaoEdit};
             huffman.inicializar(textosEditados);
-
-            // Comprime o nome e a descrição usando Huffman
             String nomeComprimido = huffman.comprimir(nomeEdit);
             String descricaoComprimida = huffman.comprimir(descricaoEdit);
 
@@ -164,17 +165,23 @@ public class ClienteHandler {
             DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
             String hora = horaAtual.format(formatter);
 
+            // Cria mensagem com dados comprimidos
             Mensagem mensagemAlterar = new Mensagem(cod, "Alterar", nomeComprimido, descricaoComprimida, hora);
-            server.escreverLog("Solicitação de edição da OS " + cod + " recebida.");
-            System.out.println("\nOS editada com sucesso!\n");
-            server.processarMensagem(mensagemAlterar);
+
+            // Descomprime para exibir os dados descomprimidos no log
+            /*String nomeDescomprimido = huffman.descomprimir(mensagemAlterar.descomprimirNome());
+            String descricaoDescomprimida = huffman.descomprimir(mensagemAlterar.descomprimirDescricao());*/
+
+            // Log com dados comprimidos
+            server.escreverLog("Solicitação de edição da OS " + cod + " recebida.\n-----Compressão-----\nNome: " + nomeComprimido + "\nDescrição: " + descricaoComprimida);
             
-            server.escreverLog("Processando mensagem:");
-            server.escreverLog("Cod: " + cod);
-            server.escreverLog("Nome comprimido: " + mensagemAlterar.descomprimirNome());
-            server.escreverLog("Descrição comprimida: " + mensagemAlterar.descomprimirDescricao());
-            server.escreverLog("Hora comprimida: " + mensagemAlterar.descomprimirHora());
-            server.escreverLog("Operação comprimida: " + mensagemAlterar.descomprimirOperacao());
+            System.out.println("\nOS editada com sucesso!");
+            /*System.out.println("Nome: " + nomeDescomprimido);
+            System.out.println("Descrição: " + descricaoDescomprimida + "\n");
+            
+            Mensagem mensagemdes = new Mensagem(cod, "Cadastrar", nomeDescomprimido, descricaoDescomprimida, hora);*/
+
+            server.processarMensagem(mensagemAlterar);
         } else {
             System.out.println("Ordem de Serviço não encontrada!\n");
         }

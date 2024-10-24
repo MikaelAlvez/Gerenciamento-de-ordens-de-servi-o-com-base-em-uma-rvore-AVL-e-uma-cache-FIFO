@@ -1,0 +1,671 @@
+Insercao de Ordem de Servico: 1
+Estado da Tabela Hash: 
+Tamanho atual: 1
+Tamanho total: 31
+Fator de Carga: 0.032258064
+
+Insercao de Ordem de Servico: 2
+Estado da Tabela Hash: 
+Tamanho atual: 2
+Tamanho total: 31
+Fator de Carga: 0.06451613
+
+Insercao de Ordem de Servico: 3
+Estado da Tabela Hash: 
+Tamanho atual: 3
+Tamanho total: 31
+Fator de Carga: 0.09677419
+
+Insercao de Ordem de Servico: 4
+Estado da Tabela Hash: 
+Tamanho atual: 4
+Tamanho total: 31
+Fator de Carga: 0.12903225
+
+Insercao de Ordem de Servico: 5
+Estado da Tabela Hash: 
+Tamanho atual: 5
+Tamanho total: 31
+Fator de Carga: 0.16129032
+
+Insercao de Ordem de Servico: 6
+Estado da Tabela Hash: 
+Tamanho atual: 6
+Tamanho total: 31
+Fator de Carga: 0.19354838
+
+Insercao de Ordem de Servico: 7
+Estado da Tabela Hash: 
+Tamanho atual: 7
+Tamanho total: 31
+Fator de Carga: 0.22580644
+
+Insercao de Ordem de Servico: 8
+Estado da Tabela Hash: 
+Tamanho atual: 8
+Tamanho total: 31
+Fator de Carga: 0.2580645
+
+Insercao de Ordem de Servico: 9
+Estado da Tabela Hash: 
+Tamanho atual: 9
+Tamanho total: 31
+Fator de Carga: 0.29032257
+
+Insercao de Ordem de Servico: 10
+Estado da Tabela Hash: 
+Tamanho atual: 10
+Tamanho total: 31
+Fator de Carga: 0.32258064
+
+Insercao de Ordem de Servico: 11
+Estado da Tabela Hash: 
+Tamanho atual: 11
+Tamanho total: 31
+Fator de Carga: 0.3548387
+
+Insercao de Ordem de Servico: 12
+Estado da Tabela Hash: 
+Tamanho atual: 12
+Tamanho total: 31
+Fator de Carga: 0.38709676
+
+Insercao de Ordem de Servico: 13
+Estado da Tabela Hash: 
+Tamanho atual: 13
+Tamanho total: 31
+Fator de Carga: 0.41935483
+
+Insercao de Ordem de Servico: 14
+Estado da Tabela Hash: 
+Tamanho atual: 14
+Tamanho total: 31
+Fator de Carga: 0.4516129
+
+Insercao de Ordem de Servico: 15
+Estado da Tabela Hash: 
+Tamanho atual: 15
+Tamanho total: 31
+Fator de Carga: 0.48387095
+
+Insercao de Ordem de Servico: 16
+Estado da Tabela Hash: 
+Tamanho atual: 16
+Tamanho total: 31
+Fator de Carga: 0.516129
+
+Insercao de Ordem de Servico: 17
+Estado da Tabela Hash: 
+Tamanho atual: 17
+Tamanho total: 31
+Fator de Carga: 0.5483871
+
+Insercao de Ordem de Servico: 18
+Estado da Tabela Hash: 
+Tamanho atual: 18
+Tamanho total: 31
+Fator de Carga: 0.58064514
+
+Insercao de Ordem de Servico: 19
+Estado da Tabela Hash: 
+Tamanho atual: 19
+Tamanho total: 31
+Fator de Carga: 0.61290324
+
+Insercao de Ordem de Servico: 20
+Estado da Tabela Hash: 
+Tamanho atual: 20
+Tamanho total: 31
+Fator de Carga: 0.6451613
+
+Insercao de Ordem de Servico: 21
+Estado da Tabela Hash: 
+Tamanho atual: 21
+Tamanho total: 31
+Fator de Carga: 0.67741936
+
+Insercao de Ordem de Servico: 22
+Estado da Tabela Hash: 
+Tamanho atual: 22
+Tamanho total: 31
+Fator de Carga: 0.7096774
+
+Insercao de Ordem de Servico: 23
+Estado da Tabela Hash: 
+Tamanho atual: 23
+Tamanho total: 31
+Fator de Carga: 0.7419355
+
+Insercao de Ordem de Servico: 24
+Estado da Tabela Hash: 
+Tamanho atual: 24
+Tamanho total: 31
+Fator de Carga: 0.7741935
+
+Insercao de Ordem de Servico: 25
+Estado da Tabela Hash: 
+Tamanho atual: 25
+Tamanho total: 61
+Fator de Carga: 0.40983605
+
+Insercao de Ordem de Servico: 26
+Estado da Tabela Hash: 
+Tamanho atual: 26
+Tamanho total: 61
+Fator de Carga: 0.4262295
+
+Insercao de Ordem de Servico: 27
+Estado da Tabela Hash: 
+Tamanho atual: 27
+Tamanho total: 61
+Fator de Carga: 0.44262296
+
+Insercao de Ordem de Servico: 28
+Estado da Tabela Hash: 
+Tamanho atual: 28
+Tamanho total: 61
+Fator de Carga: 0.45901638
+
+Insercao de Ordem de Servico: 29
+Estado da Tabela Hash: 
+Tamanho atual: 29
+Tamanho total: 61
+Fator de Carga: 0.47540984
+
+Insercao de Ordem de Servico: 30
+Estado da Tabela Hash: 
+Tamanho atual: 30
+Tamanho total: 61
+Fator de Carga: 0.4918033
+
+Insercao de Ordem de Servico: 31
+Estado da Tabela Hash: 
+Tamanho atual: 31
+Tamanho total: 61
+Fator de Carga: 0.5081967
+
+Insercao de Ordem de Servico: 32
+Estado da Tabela Hash: 
+Tamanho atual: 32
+Tamanho total: 61
+Fator de Carga: 0.52459013
+
+Insercao de Ordem de Servico: 33
+Estado da Tabela Hash: 
+Tamanho atual: 33
+Tamanho total: 61
+Fator de Carga: 0.5409836
+
+Insercao de Ordem de Servico: 34
+Estado da Tabela Hash: 
+Tamanho atual: 34
+Tamanho total: 61
+Fator de Carga: 0.55737704
+
+Insercao de Ordem de Servico: 35
+Estado da Tabela Hash: 
+Tamanho atual: 35
+Tamanho total: 61
+Fator de Carga: 0.57377046
+
+Insercao de Ordem de Servico: 36
+Estado da Tabela Hash: 
+Tamanho atual: 36
+Tamanho total: 61
+Fator de Carga: 0.59016395
+
+Insercao de Ordem de Servico: 37
+Estado da Tabela Hash: 
+Tamanho atual: 37
+Tamanho total: 61
+Fator de Carga: 0.60655737
+
+Insercao de Ordem de Servico: 38
+Estado da Tabela Hash: 
+Tamanho atual: 38
+Tamanho total: 61
+Fator de Carga: 0.6229508
+
+Insercao de Ordem de Servico: 39
+Estado da Tabela Hash: 
+Tamanho atual: 39
+Tamanho total: 61
+Fator de Carga: 0.6393443
+
+Insercao de Ordem de Servico: 40
+Estado da Tabela Hash: 
+Tamanho atual: 40
+Tamanho total: 61
+Fator de Carga: 0.6557377
+
+Insercao de Ordem de Servico: 41
+Estado da Tabela Hash: 
+Tamanho atual: 41
+Tamanho total: 61
+Fator de Carga: 0.6721311
+
+Insercao de Ordem de Servico: 42
+Estado da Tabela Hash: 
+Tamanho atual: 42
+Tamanho total: 61
+Fator de Carga: 0.6885246
+
+Insercao de Ordem de Servico: 43
+Estado da Tabela Hash: 
+Tamanho atual: 43
+Tamanho total: 61
+Fator de Carga: 0.704918
+
+Insercao de Ordem de Servico: 44
+Estado da Tabela Hash: 
+Tamanho atual: 44
+Tamanho total: 61
+Fator de Carga: 0.72131145
+
+Insercao de Ordem de Servico: 45
+Estado da Tabela Hash: 
+Tamanho atual: 45
+Tamanho total: 61
+Fator de Carga: 0.73770493
+
+Insercao de Ordem de Servico: 46
+Estado da Tabela Hash: 
+Tamanho atual: 46
+Tamanho total: 61
+Fator de Carga: 0.75409836
+
+Insercao de Ordem de Servico: 47
+Estado da Tabela Hash: 
+Tamanho atual: 47
+Tamanho total: 127
+Fator de Carga: 0.37007874
+
+Insercao de Ordem de Servico: 48
+Estado da Tabela Hash: 
+Tamanho atual: 48
+Tamanho total: 127
+Fator de Carga: 0.37795275
+
+Insercao de Ordem de Servico: 49
+Estado da Tabela Hash: 
+Tamanho atual: 49
+Tamanho total: 127
+Fator de Carga: 0.38582677
+
+Insercao de Ordem de Servico: 50
+Estado da Tabela Hash: 
+Tamanho atual: 50
+Tamanho total: 127
+Fator de Carga: 0.39370078
+
+Insercao de Ordem de Servico: 51
+Estado da Tabela Hash: 
+Tamanho atual: 51
+Tamanho total: 127
+Fator de Carga: 0.4015748
+
+Insercao de Ordem de Servico: 52
+Estado da Tabela Hash: 
+Tamanho atual: 52
+Tamanho total: 127
+Fator de Carga: 0.40944883
+
+Insercao de Ordem de Servico: 53
+Estado da Tabela Hash: 
+Tamanho atual: 53
+Tamanho total: 127
+Fator de Carga: 0.41732284
+
+Insercao de Ordem de Servico: 54
+Estado da Tabela Hash: 
+Tamanho atual: 54
+Tamanho total: 127
+Fator de Carga: 0.42519686
+
+Insercao de Ordem de Servico: 55
+Estado da Tabela Hash: 
+Tamanho atual: 55
+Tamanho total: 127
+Fator de Carga: 0.43307087
+
+Insercao de Ordem de Servico: 56
+Estado da Tabela Hash: 
+Tamanho atual: 56
+Tamanho total: 127
+Fator de Carga: 0.44094488
+
+Insercao de Ordem de Servico: 57
+Estado da Tabela Hash: 
+Tamanho atual: 57
+Tamanho total: 127
+Fator de Carga: 0.4488189
+
+Insercao de Ordem de Servico: 58
+Estado da Tabela Hash: 
+Tamanho atual: 58
+Tamanho total: 127
+Fator de Carga: 0.4566929
+
+Insercao de Ordem de Servico: 59
+Estado da Tabela Hash: 
+Tamanho atual: 59
+Tamanho total: 127
+Fator de Carga: 0.46456692
+
+Insercao de Ordem de Servico: 60
+Estado da Tabela Hash: 
+Tamanho atual: 60
+Tamanho total: 127
+Fator de Carga: 0.47244096
+
+Insercao de Ordem de Servico: 61
+Estado da Tabela Hash: 
+Tamanho atual: 61
+Tamanho total: 127
+Fator de Carga: 0.48031497
+
+Insercao de Ordem de Servico: 62
+Estado da Tabela Hash: 
+Tamanho atual: 62
+Tamanho total: 127
+Fator de Carga: 0.48818898
+
+Insercao de Ordem de Servico: 63
+Estado da Tabela Hash: 
+Tamanho atual: 63
+Tamanho total: 127
+Fator de Carga: 0.496063
+
+Insercao de Ordem de Servico: 64
+Estado da Tabela Hash: 
+Tamanho atual: 64
+Tamanho total: 127
+Fator de Carga: 0.503937
+
+Insercao de Ordem de Servico: 65
+Estado da Tabela Hash: 
+Tamanho atual: 65
+Tamanho total: 127
+Fator de Carga: 0.511811
+
+Insercao de Ordem de Servico: 66
+Estado da Tabela Hash: 
+Tamanho atual: 66
+Tamanho total: 127
+Fator de Carga: 0.51968503
+
+Insercao de Ordem de Servico: 67
+Estado da Tabela Hash: 
+Tamanho atual: 67
+Tamanho total: 127
+Fator de Carga: 0.52755904
+
+Insercao de Ordem de Servico: 68
+Estado da Tabela Hash: 
+Tamanho atual: 68
+Tamanho total: 127
+Fator de Carga: 0.53543305
+
+Insercao de Ordem de Servico: 69
+Estado da Tabela Hash: 
+Tamanho atual: 69
+Tamanho total: 127
+Fator de Carga: 0.54330707
+
+Insercao de Ordem de Servico: 70
+Estado da Tabela Hash: 
+Tamanho atual: 70
+Tamanho total: 127
+Fator de Carga: 0.5511811
+
+Insercao de Ordem de Servico: 71
+Estado da Tabela Hash: 
+Tamanho atual: 71
+Tamanho total: 127
+Fator de Carga: 0.5590551
+
+Insercao de Ordem de Servico: 72
+Estado da Tabela Hash: 
+Tamanho atual: 72
+Tamanho total: 127
+Fator de Carga: 0.56692916
+
+Insercao de Ordem de Servico: 73
+Estado da Tabela Hash: 
+Tamanho atual: 73
+Tamanho total: 127
+Fator de Carga: 0.5748032
+
+Insercao de Ordem de Servico: 74
+Estado da Tabela Hash: 
+Tamanho atual: 74
+Tamanho total: 127
+Fator de Carga: 0.5826772
+
+Insercao de Ordem de Servico: 75
+Estado da Tabela Hash: 
+Tamanho atual: 75
+Tamanho total: 127
+Fator de Carga: 0.5905512
+
+Insercao de Ordem de Servico: 76
+Estado da Tabela Hash: 
+Tamanho atual: 76
+Tamanho total: 127
+Fator de Carga: 0.5984252
+
+Insercao de Ordem de Servico: 77
+Estado da Tabela Hash: 
+Tamanho atual: 77
+Tamanho total: 127
+Fator de Carga: 0.6062992
+
+Insercao de Ordem de Servico: 78
+Estado da Tabela Hash: 
+Tamanho atual: 78
+Tamanho total: 127
+Fator de Carga: 0.61417323
+
+Insercao de Ordem de Servico: 79
+Estado da Tabela Hash: 
+Tamanho atual: 79
+Tamanho total: 127
+Fator de Carga: 0.62204725
+
+Insercao de Ordem de Servico: 80
+Estado da Tabela Hash: 
+Tamanho atual: 80
+Tamanho total: 127
+Fator de Carga: 0.62992126
+
+Insercao de Ordem de Servico: 81
+Estado da Tabela Hash: 
+Tamanho atual: 81
+Tamanho total: 127
+Fator de Carga: 0.63779527
+
+Insercao de Ordem de Servico: 82
+Estado da Tabela Hash: 
+Tamanho atual: 82
+Tamanho total: 127
+Fator de Carga: 0.6456693
+
+Insercao de Ordem de Servico: 83
+Estado da Tabela Hash: 
+Tamanho atual: 83
+Tamanho total: 127
+Fator de Carga: 0.6535433
+
+Insercao de Ordem de Servico: 84
+Estado da Tabela Hash: 
+Tamanho atual: 84
+Tamanho total: 127
+Fator de Carga: 0.6614173
+
+Insercao de Ordem de Servico: 85
+Estado da Tabela Hash: 
+Tamanho atual: 85
+Tamanho total: 127
+Fator de Carga: 0.6692913
+
+Insercao de Ordem de Servico: 86
+Estado da Tabela Hash: 
+Tamanho atual: 86
+Tamanho total: 127
+Fator de Carga: 0.6771653
+
+Insercao de Ordem de Servico: 87
+Estado da Tabela Hash: 
+Tamanho atual: 87
+Tamanho total: 127
+Fator de Carga: 0.68503934
+
+Insercao de Ordem de Servico: 88
+Estado da Tabela Hash: 
+Tamanho atual: 88
+Tamanho total: 127
+Fator de Carga: 0.6929134
+
+Insercao de Ordem de Servico: 89
+Estado da Tabela Hash: 
+Tamanho atual: 89
+Tamanho total: 127
+Fator de Carga: 0.7007874
+
+Insercao de Ordem de Servico: 90
+Estado da Tabela Hash: 
+Tamanho atual: 90
+Tamanho total: 127
+Fator de Carga: 0.70866144
+
+Insercao de Ordem de Servico: 91
+Estado da Tabela Hash: 
+Tamanho atual: 91
+Tamanho total: 127
+Fator de Carga: 0.71653545
+
+Insercao de Ordem de Servico: 92
+Estado da Tabela Hash: 
+Tamanho atual: 92
+Tamanho total: 127
+Fator de Carga: 0.72440946
+
+Insercao de Ordem de Servico: 93
+Estado da Tabela Hash: 
+Tamanho atual: 93
+Tamanho total: 127
+Fator de Carga: 0.7322835
+
+Insercao de Ordem de Servico: 94
+Estado da Tabela Hash: 
+Tamanho atual: 94
+Tamanho total: 127
+Fator de Carga: 0.7401575
+
+Insercao de Ordem de Servico: 95
+Estado da Tabela Hash: 
+Tamanho atual: 95
+Tamanho total: 127
+Fator de Carga: 0.7480315
+
+Insercao de Ordem de Servico: 96
+Estado da Tabela Hash: 
+Tamanho atual: 96
+Tamanho total: 127
+Fator de Carga: 0.7559055
+
+Insercao de Ordem de Servico: 97
+Estado da Tabela Hash: 
+Tamanho atual: 97
+Tamanho total: 251
+Fator de Carga: 0.3864542
+
+Insercao de Ordem de Servico: 98
+Estado da Tabela Hash: 
+Tamanho atual: 98
+Tamanho total: 251
+Fator de Carga: 0.39043826
+
+Insercao de Ordem de Servico: 99
+Estado da Tabela Hash: 
+Tamanho atual: 99
+Tamanho total: 251
+Fator de Carga: 0.39442232
+
+Insercao de Ordem de Servico: 100
+Estado da Tabela Hash: 
+Tamanho atual: 100
+Tamanho total: 251
+Fator de Carga: 0.3984064
+
+Ordens de serviço carregadas do arquivo.
+Consultar OS 3 recebido
+Consultar OS 7 recebido
+Consultar OS 2 recebido
+Solicitação de cadastrar OS 101 recebida.
+-----Compressão-----
+Nome: 100111010011110
+Descrição: 1001110101111000001
+Insercao de Ordem de Servico: 101
+Estado da Tabela Hash: 
+Tamanho atual: 101
+Tamanho total: 251
+Fator de Carga: 0.40239045
+
+Solicitação de cadastrar OS 102 recebida.
+-----Compressão-----
+Nome: 00011010001100
+Descrição: 111110
+Insercao de Ordem de Servico: 102
+Estado da Tabela Hash: 
+Tamanho atual: 102
+Tamanho total: 251
+Fator de Carga: 0.4063745
+
+Solicitação de edição da OS 101 recebida.
+-----Compressão-----
+Nome: 001100100011111001011
+Descrição: 001100100011111010110111010000111011
+Cache alterada
+
+Alteracao na Ordem de Servido feita na cache: 101, Time: 2024-10-24 16:54:03
+Estado da Tabela Hash: 
+Tamanho atual: 102
+Tamanho total: 251
+Fator de Carga: 0.4063745
+
+Solicitação de edição da OS 100 recebida.
+-----Compressão-----
+Nome: 11011011101
+Descrição: 110110111000001100
+Cache alterada
+
+Alteracao na Ordem de Servido feita na cache: 100, Time: 2024-10-24 16:54:48
+Estado da Tabela Hash: 
+Tamanho atual: 102
+Tamanho total: 251
+Fator de Carga: 0.4063745
+
+Solicitação de quantidade de OSs recebida.
+Solicitação de remoção da OS 102 recebida.
+Remoção de Ordem de Serviço: 102
+Estado da Tabela Hash: 
+Tamanho atual: 101
+Tamanho total: 251
+Fator de Carga: 0.40239045
+
+Solicitação de remoção da OS 100 recebida.
+Remoção de Ordem de Serviço: 100
+Estado da Tabela Hash: 
+Tamanho atual: 100
+Tamanho total: 251
+Fator de Carga: 0.3984064
+
+Solicitação de remoção da OS 101 recebida.
+Remoção de Ordem de Serviço: 101
+Estado da Tabela Hash: 
+Tamanho atual: 99
+Tamanho total: 251
+Fator de Carga: 0.39442232
+
+Solicitação de quantidade de OSs recebida.
